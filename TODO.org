@@ -1,4 +1,0 @@
-* Rewrite research interests!
-* Make some sort of site.doibase jekyll variable
-  and site.arXivbase, and replace in pub-link.html template
-* Add 'code' page?
