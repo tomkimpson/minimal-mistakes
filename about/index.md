@@ -2,15 +2,15 @@
 layout: page
 title: About
 tags: [about]
-modified: 2016-05-28
+modified: 2015-08-30
 comments: true
 image:
-  feature: banner.jpg
+  feature: apple-eye-cropped.png
   credit:
   creditlink:
 ---
 
-![]({{ site.url }}/images/banner.png)
+![]({{ site.url }}/images/bio-pic.png)
 {: .image-pull-right}
 
-Please bear with - site has recently been switched over from pelican and is still getting up and running
+I am currently trying to get this to work
