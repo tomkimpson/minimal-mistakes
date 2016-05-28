@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-![]({{ site.url }}/images/bio-pic.jpg)
+![]({{ site.url }}/images/banner.png)
 {: .image-pull-right}
 
 Please bear with - site has recently been switched over from pelican and is still getting up and running

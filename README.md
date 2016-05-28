@@ -1,3 +1,3 @@
-# Leo's web site
+# A new blog
 
-My web site lives at https://duetosymmetry.com/. It is powered by [Jekyll](http://jekyllrb.com/), using Michael Rose's theme, [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes).
+New blog having switched over from Pelican/Python to Jekyll/Ruby, using  theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes) by Michael Rose.
