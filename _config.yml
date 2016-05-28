@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Leo C. Stein
-locale:           en_US
+title:            Tom Kimpson
+locale:           en_UK
 #url:              https://duetosymmetry.com
 
 
@@ -42,19 +42,19 @@ titlecase: true
 owner:
   name: Leo C. Stein
   avatar: bio-photo.jpg
-  bio: "Postdoctoral researcher, Caltech. Gravitational waves, general relativity and beyond."
-  email: leostein@tapir.caltech.edu
+  bio: "PhD researcher, UCL. General relativity, compact objects and gravitational waves."
+  email: tomkimpson@gmail.com
   disqus-shortname: 
-  twitter: duetosymmetry
-  facebook: leo.stein
+  twitter: tomkimpson
+  facebook: #leo.stein
   google:
-    plus: LeoStein
-    analytics: UA-64041100-1
+    plus: #LeoStein
+    analytics: #UA-64041100-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: duetosymmetry
+  github: tomkimpson
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
