@@ -1,0 +1,74 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/leo/Documents/web-site-2/TODO.org
+
+
+* DONE Add INSPIREs link to research page
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-06-10 Wed 16:39
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* Create a tohost.sh
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-06-12 Fri 09:32
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :END:
+
+* DONE Make a separate branch for duetosymmetry.com and astro.cornell.edu
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-06-12 Fri 09:41
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Redirect everything from astro.cornell.edu to duetosymmetry.com
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-06-12 Fri 18:54
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Find out how to make hovertext title for CV link
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-06-15 Mon 09:11
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO Put Berti's review on publication list!
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-06-30 Tue 10:48
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* Maybe: edit _sass/variables.scss colors
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-09-14 Mon 18:44
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :END:
+$linkcolor                 : #246424;
+
+* change favicon
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-10-14 Wed 16:57
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :END:
+
+* change default-thumb.png
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2015-10-14 Wed 16:57
+  :ARCHIVE_FILE: ~/Documents/web-site-2/TODO.org
+  :ARCHIVE_CATEGORY: TODO
+  :END:

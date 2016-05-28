@@ -1,16 +1,20 @@
-# main links links
-main:
-  - title: "GOOGLE"
-    url: /about/
+# Site navigation links
 
-  - title: "About"
-    url: https://www.google.co.uk
+- title: About
+  url: /about/
 
-  - title: "Projects"
-    url: https://www.google.co.uk
+- title: Research
+  url: /research/
 
-  - title: "CV"
-    url: https://www.google.co.uk
+- title: Publications
+  url: /pubs/
 
-  - title: "OTHER TEST"
-    url: https://www.google.co.uk
+- title: All Posts
+  url: /posts/
+
+- title: Links
+  url: /links/
+
+- title: CV
+  url: /LeoCStein.pdf
+  alt: Curriculum Vitae
