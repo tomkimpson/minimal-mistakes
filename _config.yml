@@ -45,7 +45,7 @@ owner:
   bio: "PhD researcher, UCL. General relativity, compact objects and gravitational waves NEW TEST."
   email: tomkimpson@gmail.com
   disqus-shortname: 
-  twitter: tomkimpson
+  twitter: KimpsonTom
   facebook: #leo.stein
   google:
     plus: #LeoStein
@@ -68,7 +68,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: kimpsontom
   codepen: #username
 
 include: [".htaccess"]
