@@ -10,7 +10,7 @@ $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
 $base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
+$heading-font: 'Futura PT', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
@@ -52,7 +52,7 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : #FFF056;
+$linkcolor 		    : #292f33;
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
