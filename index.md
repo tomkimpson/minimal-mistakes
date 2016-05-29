@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "Leo C. Stein, Postdoctoral researcher @ Caltech. Specializing in gravity and general relativity."
-tags: [gravity, general relativity, astrophysics]
+excerpt: "Tom Kimpson n stuff"
+tags: []
 image:
-  feature: banner.png
+  feature: banner2.png
   credit: 
   creditlink: 
 ---
