@@ -1,16 +1,15 @@
 ---
 layout: home
-title: Homey
+title: Home
 tags: []
-modified: 2015-08-30
+modified: 2016-05-29
 comments: true
 image:
-  feature: apple-eye-cropped.png
+  feature: banner.png
   credit:
   creditlink:
 ---
 
-![]({{ site.url }}/images/bio-pic.jpg)
-{: .image-pull-right}
 
+SUCCESS?
 I am currently trying to get this to work. so if I make some edits here do they show up?
