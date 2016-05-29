@@ -13,4 +13,4 @@ image:
 ![]({{ site.url }}/images/bio-pic.png)
 {: .image-pull-right}
 
-I am currently trying to get this to work
+I am currently trying to get this to work. so if I make some edits here do they show up?
