@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Homey
 tags: []
 modified: 2015-08-30
