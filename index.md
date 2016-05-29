@@ -1,11 +1,16 @@
 ---
-layout: home
-excerpt: "Tom Kimpson n stuff"
-tags: []
+layout: page
+title: About
+tags: [about]
+modified: 2015-08-30
+comments: true
 image:
-  feature: banner2.png
-  credit: 
-  creditlink: 
+  feature: apple-eye-cropped.png
+  credit:
+  creditlink:
 ---
 
-LOOK HERE THIS IS A TEST
+![]({{ site.url }}/images/bio-pic.png)
+{: .image-pull-right}
+
+I am currently trying to get this to work
