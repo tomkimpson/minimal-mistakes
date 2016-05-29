@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Home
 tags: [about]
 modified: 2015-08-30
 comments: true
