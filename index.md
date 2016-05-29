@@ -5,7 +5,7 @@ tags: []
 modified: 2016-05-29
 comments: true
 image:
-  feature: background.png
+  feature: banner.png
   credit:
   creditlink:
 ---
