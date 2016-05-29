@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-![]({{ site.url }}/images/bio-pic.png)
+![]({{ site.url }}/images/bio-pic.jpg)
 {: .image-pull-right}
 
 I am currently trying to get this to work
