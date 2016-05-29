@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-tags: [about]
+title: Homey
+tags: []
 modified: 2015-08-30
 comments: true
 image:
