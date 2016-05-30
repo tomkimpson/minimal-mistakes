@@ -16,5 +16,5 @@ I am an astrophysics student,having recently (June 2016) completed an MPhys at D
 
 -
 -
-This site will serve as a repo to centralise any projects or things I have learned. It is also a good excuse to play with and improve my Ruby/Jekyll/HTML skills. It is likely that I will frequently be tinkering with the code so if something doesn't work do let me know.
+This site will serve as a repo to centralise any projects or things I have learned. This site is still finding its feet, as I have recently transferred over from a Pelican/Python framework to using Ruby/Jekyll. Consequently many pages and posts are still only half-working but bear with. It is likely that I will frequently be tinkering with the code so if something doesn't work do let me know. 
 
