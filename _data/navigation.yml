@@ -6,9 +6,6 @@
 - title: Publications
   url: /pubs/
 
-- title: All Posts
-  url: /posts/
-
 - title: Links
   url: /links/
 
@@ -18,3 +15,6 @@
 - title: CV
   url: /CV-Template.pdf
   alt: Curriculum Vitae
+
+- title: All Posts
+  url: /posts/

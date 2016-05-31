@@ -16,6 +16,6 @@ date: 2016-05-31T00:00:00-05:00
 ---
 
 ![]({{ site.url }}/images/kozai.png)
-{: .image-pull-right style="width: 250px"}
+
 
 Submitted to MNRAS. Watch this space.
