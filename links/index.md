@@ -9,4 +9,10 @@ image:
   feature:
 ---
 
-Some links to useful stuff
+Some useful stuff
+
+###Software
+[astropy](http://www.astropy.org). Very useful Python package for astro.
+
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). Python library for scraping HTML or XML files. Works well with [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
+
