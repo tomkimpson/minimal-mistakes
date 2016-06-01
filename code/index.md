@@ -9,7 +9,11 @@ image:
   feature:
 ---
 
-<b>From [Matt Might](http://matt.might.net/articles/crapl/): </b> <p><i> "Science thrives on openness.
+From [Matt Might](http://matt.might.net/articles/crapl/): 
+
+
+
+<p><i> "Science thrives on openness.
 
 In modern science, it is often infeasible to replicate claims without
 access to the software underlying those claims.
@@ -18,7 +22,7 @@ Let's all be honest: when scientists write code, aesthetics and
 software engineering principles take a back seat to having running,
 working code before a deadline.
 
-So, let's release the ugly.  And, let's be proud of that." </i> </p>
+So, let's release the ugly.  And, let's be proud of that." </i></p>
 
 <b>Any scripts here are highly likely to be ugly</b>
 
