@@ -27,8 +27,8 @@ So, let's release the ugly.  And, let's be proud of that." </i></p>
 <b>Any scripts here are highly likely to be ugly</b>
 
 
-<a href="https://github.com/tomkimpson/Fermi-MET-convertor">met_convertor.py</a>
-Convertor which uses xTime from NASA's HEASARC to convert from calendar UTC time to mission elapsed MET time for the Fermi mission, which began 2001-01-01 00:00:00 UTC
+<p><a href="https://github.com/tomkimpson/Fermi-MET-convertor">met_convertor.py</a>
+Convertor which uses xTime from NASA's HEASARC to convert from calendar UTC time to mission elapsed MET time for the Fermi mission, which began 2001-01-01 00:00:00 UTC</p>
 
 
 <a href="https://github.com/tomkimpson/Kozai">Triple System Parameters</a> Script used to extract the orbital parameters and theoretical timescales from a data file giving masses/positions/velocities of a triple system evolving over time. 

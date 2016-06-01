@@ -16,3 +16,5 @@ Some useful stuff
 
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). Python library for scraping HTML or XML files. Works well with [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
