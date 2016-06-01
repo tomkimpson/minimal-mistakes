@@ -11,10 +11,11 @@ image:
 
 Some useful stuff
 
-###Software
-[astropy](http://www.astropy.org). Very useful Python package for astro.
+### Software
 
-[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). Python library for scraping HTML or XML files. Works well with [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
+* [astropy](http://www.astropy.org). Very useful Python package for astro.
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). Python library for scraping HTML or XML files. Works well with [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
+
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
