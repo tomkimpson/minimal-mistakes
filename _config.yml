@@ -42,20 +42,20 @@ titlecase: true
 owner:
   name: Tom Kimpson
   avatar: bio-pic.jpg
-  bio: "Soon-to-be PhD student, UCL. General relativity, compact objects, GRBs and gravitational waves."
+  bio: "Soon-to-be astro PhD student, UCL. General relativity, compact objects, GRBs and gravitational waves."
   email: tomkimpson@gmail.com
   disqus-shortname: 
   twitter: KimpsonTom
-  facebook: #leo.stein
+  facebook:
   google:
-    plus: #LeoStein
-    analytics: #UA-64041100-1
+    plus:
+    analytics:
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
   github: tomkimpson
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 
   linkedin: #username
   xing: #username
   instagram: #username
