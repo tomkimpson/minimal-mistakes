@@ -1,7 +1,14 @@
-Title: Library path changes with otool
-Date: 2015-11-10
-Tags: Computing
-Summary: Short note on altering the paths within an executable
+---
+layout: post
+title: "Library path changes with otool"
+modified:
+categories: 
+excerpt: "Altering the paths of an executable"
+tags: []
+image:
+feature:
+date: 2015-11-10T18:29:39-07:00
+---
 
 I have been using the Fermi-Science tools a lot recently to investigate GRB's under the recent pass-8 analysis.
 

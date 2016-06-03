@@ -19,18 +19,16 @@ Installation:
 
         (wget -O - pi.dk/3 || curl pi.dk/3/ || fetch -o - http://pi.dk/3) | bash
 
-Suppose you then have $X$ jobs named `script_n.sh` for identifier $n$. The easy way to run this across Y cores is simply
+Suppose you then have a X jobs named `script_n.sh` for identifier $n$. The easy way to run this across Y cores is simply
 
         parallel -j Y bash -c ::: ./script_*.sh
 
 To prevent parallel quitting if you exit - i.e. if your remote session expires - run this with nohup:
 
-nohup parallel -j Y bash -c ::: ./script_*.sh
+        nohup parallel -j Y bash -c ::: ./script_*.sh
 
 An excellent full how-to guide is found [here](https://www.usenix.org/system/files/login/articles/105438-Tange.pdf)
 
 
-![without](http://i.stack.imgur.com/uH0Dh.png)
-
-![with](http://i.stack.imgur.com/17FsG.png)
+![without](http://i.stack.imgur.com/uH0Dh.png) ![with](http://i.stack.imgur.com/17FsG.png)
 

@@ -1,6 +1,15 @@
-Title: HOWTO -SSH
-Date: 2015-12-06
-Summary: Notes on remote server access
+---
+layout: post
+title: "How to SSH"
+modified:
+categories: 
+excerpt: "Notes on remote server access"
+tags: []
+image:
+feature:
+date: 2015-12-06T18:29:39-07:00
+
+---
 
 Remote access of a machine via ssh is simply done as follows
 
