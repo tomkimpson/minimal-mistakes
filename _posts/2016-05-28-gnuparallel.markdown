@@ -15,9 +15,6 @@ date: 2016-01-02T18:29:39-07:00
 
 Suppose we have 32 jobs we want to run across 4 cores. A simple way to parallelize this is to run 8 jobs on each core. GNU parallel instead starts a new process when one finishes, keeping all cores actve and reducign the dead time.
 
-![alt text](https://quantmetryblog.files.wordpress.com/2015/01/2015-02-09_ds_at_the_cli_gnuparallel.png)
-
-
 Installation:
 
         (wget -O - pi.dk/3 || curl pi.dk/3/ || fetch -o - http://pi.dk/3) | bash
@@ -33,5 +30,7 @@ nohup parallel -j Y bash -c ::: ./script_*.sh
 An excellent full how-to guide is found [here](https://www.usenix.org/system/files/login/articles/105438-Tange.pdf)
 
 
+![without](http://i.stack.imgur.com/uH0Dh.png)
 
+![with](http://i.stack.imgur.com/17FsG.png)
 
