@@ -22,7 +22,7 @@ working code before a deadline.
 
 So, let's release the ugly.  And, let's be proud of that." </i></p>
 
-<b>Any scripts here are highly likely to be ugly</b>
+<p><b>Any scripts here are highly likely to be ugly</b></p>
 
 
 * [met_convertor.py](https://github.com/tomkimpson/Fermi-MET-convertor). Convertor which uses xTime from NASA's HEASARC to convert from calendar UTC time to mission elapsed MET time for the Fermi mission, which began 2001-01-01 00:00:00 UTC
