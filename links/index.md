@@ -25,4 +25,6 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [How to run scripts in parallel](http://tomkimpson.com/gnuparallel/)
 
+*[How to change the path of an executable](http://tomkimpson.com/otool/)
+
 
