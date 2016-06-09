@@ -32,7 +32,7 @@ So, let's release the ugly.  And, let's be proud of that." </i></p>
 
 * [fetch_gcn.py](https://github.com/tomkimpson/GCN). Slightly cumbersome script which takes in a text file of links to GCN notices and outputs the RA/DEC/time of burst as recorded by Fermi-LAT.
 
-* [run-git.sh](https://github.com/tomkimpson/git-sh)<a href=""></a> Very lazy script for pushing changes to github repo. Also useful to create local alias so this script can be run from any directory. [See here](http://tomkimpson.com/using-github.html) for github use and creating aliases
+* [run-git.sh](https://github.com/tomkimpson/git-sh)<a href=""></a> Very lazy script for pushing changes to github repo. Also useful to [create an alias](http://computers.tutsplus.com/tutorials/speed-up-your-terminal-workflow-with-command-aliases-and-profile--mac-30515) so this script can be run from any directory.
 
 * [double_pendulum.py](https://github.com/tomkimpson/doublependulum) Script for integrating and then animating equations of motion of double pendulum.
 
