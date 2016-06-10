@@ -33,3 +33,5 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [Jerry Coyne's, Why Evolution is True](https://whyevolutionistrue.wordpress.com)
 
+* [Phil Plait's, Bad Astronomy](http://www.slate.com/authors.phil_plait.html)
+
