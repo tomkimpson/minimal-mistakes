@@ -31,3 +31,5 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [Scott Aaronson's, Shtetl-Optimized](http://www.scottaaronson.com/blog/?m=201606)
 
+* [Jerry Coyne's, Why Evolution is True](https://whyevolutionistrue.wordpress.com)
+
