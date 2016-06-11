@@ -31,7 +31,7 @@ Anaconda also has just about every package you could ever want to install. So, f
 
     conda install scikit-learn
 
-This will install scikit-learn in the current active environment.
+This will install scikit-learn in the current active environment. Any packages that aren't included with Conda can be added in using *pip*
 
 
 
