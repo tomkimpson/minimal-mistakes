@@ -27,6 +27,8 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [How to change the path of an executable](http://tomkimpson.com/otool/)
 
+* [Data Science with Anaconda](http://tomkimpson.com/anaconda/)
+
 ### Blogs
 
 * [Scott Aaronson's, Shtetl-Optimized](http://www.scottaaronson.com/blog/?m=201606)
