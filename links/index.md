@@ -29,6 +29,8 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [Data Science with Anaconda](http://tomkimpson.com/anaconda/)
 
+* [IPython Jupyter Notebooks Guide](http://quant-econ.net/py/getting_started.html)
+
 ### Blogs
 
 * [Scott Aaronson's, Shtetl-Optimized](http://www.scottaaronson.com/blog/?m=201606)
