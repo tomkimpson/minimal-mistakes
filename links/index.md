@@ -19,6 +19,8 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+* [MatLab to Python](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf)
+
 ### Computing
 
 * [How to SSH](http://tomkimpson.com/ssh_howto/)
