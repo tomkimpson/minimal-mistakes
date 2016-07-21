@@ -41,3 +41,6 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [Phil Plait's, Bad Astronomy](http://www.slate.com/authors.phil_plait.html)
 
+
+###All
+[All posts](http://tomkimpson.com/posts/)
