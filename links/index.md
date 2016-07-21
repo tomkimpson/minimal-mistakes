@@ -33,13 +33,20 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [IPython Jupyter Notebooks Guide](http://quant-econ.net/py/getting_started.html)
 
-### Blogs
+### Great Blogs
 
 * [Scott Aaronson's, Shtetl-Optimized](http://www.scottaaronson.com/blog/?m=201606)
 
 * [Jerry Coyne's, Why Evolution is True](https://whyevolutionistrue.wordpress.com)
 
 * [Phil Plait's, Bad Astronomy](http://www.slate.com/authors.phil_plait.html)
+
+* [Philip Guo's, pgbovine.net](http://www.pgbovine.net/index.html)
+
+
+###Data Science and ML 
+
+* [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 
 ###All
