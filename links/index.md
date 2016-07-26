@@ -33,6 +33,7 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [IPython Jupyter Notebooks Guide](http://quant-econ.net/py/getting_started.html)
 
+
 ### Great Blogs
 
 * [Scott Aaronson's, Shtetl-Optimized](http://www.scottaaronson.com/blog/?m=201606)
@@ -44,10 +45,10 @@ Some useful stuff - external links and some short "How-to"s from here.
 * [Philip Guo's, pgbovine.net](http://www.pgbovine.net/index.html)
 
 
-###Data Science and ML 
+### Data Science and ML 
 
 * [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 
-###All
+### All
 [All posts](http://tomkimpson.com/posts/)
