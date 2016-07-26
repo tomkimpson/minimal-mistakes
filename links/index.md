@@ -51,4 +51,4 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 
 ### All
-[All posts](http://tomkimpson.com/posts/)
+* [All posts](http://tomkimpson.com/posts/)
