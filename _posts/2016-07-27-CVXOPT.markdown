@@ -11,9 +11,9 @@ date: 2016-07-27T18:29:39-07:00
 
 ---
 
-stuff $ \alpha $ stuff
+stuff $$ \alpha $$ stuff
 
-test
+tes2t
 
 
 
