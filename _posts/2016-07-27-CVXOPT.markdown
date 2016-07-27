@@ -11,19 +11,9 @@ date: 2016-07-27T18:29:39-07:00
 
 ---
 
-stuff $$ \alpha $$ stuff
-
-tes2t
-
-
-
-Often we want to maximize/minimize a function w.r.t some exterior constraints. This can be easily done in Python using the [CVXOPT](http://cvxopt.org/index.html) package. <br> <br>
-
-
+Often we want to maximize/minimize a function w.r.t some exterior constraints. This can be easily done in Python using the [CVXOPT](http://cvxopt.org/index.html) package. <br> <br> 
 Tutorial examples for the linear and quadratic cases are available: [linear](http://cvxopt.org/examples/tutorial/lp.html), [quadratic](https://courses.csail.mit.edu/6.867/wiki/images/a/a7/Qp-cvxopt.pdf). <br> <br>
-
 One of the main problems with this package is the installation - doing it via the standard method of *pip* or *homebrew* is possible but there is a caveat: for linear programming you want to use the 3rd party solver [glpk](https://www.gnu.org/software/glpk/). This has been optimised for linear functions and consequently is *much* (~100 times) faster than the standard, more general <i>CVXOPT</i> solver. <br> <br>
-
 The best way to do this is to install <i>glpk</i> with homebrew:
 
     brew install glpk
@@ -48,7 +38,7 @@ Also useful:
 
     solvers.options['glpk'] = dict(msg_lev='GLP_MSG_OFF')
 
-* For maximization, just realise that minimizing $ - c^T \hat{x} $ is equivalent to maximizing $ c^T \hat{x} $, to use the CVXOPT terms. 
+* For maximization, just realise that minimizing $$ - c^T \hat{x} $$ is equivalent to maximizing $$ c^T \hat{x} $$, to use the CVXOPT terms. 
     
 
 
