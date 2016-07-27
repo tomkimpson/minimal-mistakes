@@ -36,7 +36,7 @@ Also useful:
 
     solvers.options['glpk'] = dict(msg_lev='GLP_MSG_OFF')
 
-* For maximization, just realise that minimizing $$ - c^T \hat{x} $$ is equivalent to maximizing $$ c^T \hat{x} $$, to use the CVXOPT terms. 
+* For maximization, just realise that minimizing $$ - c^T \bar{x} $$ is equivalent to maximizing $$ c^T \bar{x} $$, to use the CVXOPT terms. 
     
 
 
