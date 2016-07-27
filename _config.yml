@@ -8,8 +8,8 @@ locale:           en_UK
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-#markdown:    kramdown
-markdown: maruku
+markdown:    kramdown
+#markdown: maruku
 highlighter: rouge
 sass:
   sass_dir: _sass
