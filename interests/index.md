@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projects"
+title: "Interests"
 date: 2016-05-28
 modified: 2016-05-28
 excerpt:
@@ -9,7 +9,7 @@ image:
   feature:
 ---
 
-Any non-academic research I refer to as projects. My current main interests are
+My current main interests are
 
 * __Machine Learning__. ML refers to teaching a computer to learn concepts without being explicitly programmed. The Quora post ["How do I learn machine learning"](https://www.quora.com/How-do-I-learn-machine-learning-1) is an excellent resource, with over 100 answers. For the background theory, Andrew Ng's Stanford course is widely praised and [available free](https://www.coursera.org/learn/machine-learning) on Coursera. Jason Brownlee also has a nice [collection of resources](http://machinelearningmastery.com/self-study-guide-to-machine-learning/) for progression from Beginner to Advanced.
 

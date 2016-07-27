@@ -18,15 +18,13 @@ The best way to do this is to install <i>glpk</i> with homebrew:
 
     brew install glpk
 
-and then [manually download the CVXOPT package](https://pypi.python.org/pypi/cvxopt)
-
-Unzip the tarball, and then in <i> setup.py</i> change the variables as:
+and then [manually download the CVXOPT package](https://pypi.python.org/pypi/cvxopt). Unzip the tarball, and then in <i> setup.py</i> change the variables as:
 
     BUILD_GLPK = 1
     GLPK_LIB_DIR = '/usr/local/Cellar/glpk/4.60/lib'
     GLPK_INC_DIR = '/usr/local/Cellar/glpk/4.60/include'
 
-or the equivalent path on your machine. Then run the setup scipt as
+or the equivalent path on your machine. Then run the setup script as
 
     python setup.py install
 
