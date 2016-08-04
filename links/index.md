@@ -44,6 +44,8 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [Philip Guo's, pgbovine.net](http://www.pgbovine.net/index.html)
 
+* [Jake Vanderplas', Pythonic Perambulations](https://jakevdp.github.io)
+
 
 ### Data Science and ML 
 
