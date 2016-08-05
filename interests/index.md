@@ -11,10 +11,13 @@ image:
 
 My current main interests are
 
-* __Machine Learning__. ML refers to teaching a computer to learn concepts without being explicitly programmed. The Quora post ["How do I learn machine learning"](https://www.quora.com/How-do-I-learn-machine-learning-1) is an excellent resource, with over 100 answers. For the background theory, Andrew Ng's Stanford course is widely praised and [available free](https://www.coursera.org/learn/machine-learning) on Coursera. Jason Brownlee also has a nice [collection of resources](http://machinelearningmastery.com/self-study-guide-to-machine-learning/) for progression from Beginner to Advanced.
+* __Machine Learning__. ML refers to teaching a computer to learn concepts without being explicitly programmed. It is currently one of the most exciting applied sciences, with far reaching implications for business, technology, economics and health. Neural networks that can learn to recognize faces/speech/typing patterns, algorithms that can learn to fly a helicopter, dirve a car, or recognize handwritten digits, determine the best way to invest in the stock market, the best way to price a product, beat grandmasters in Go or Chess, recognize correlations in big medical data to aid diagnosis and treatment. Research in machine learning is currently a leading priority at the tech giants like Google, Amazon and Facebook.
 
-* __Statistics, Game Theory, Probability__. At the moment I am working my way through [Bayesian methods for Hackers](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb), which is an awesome resource for doing any sort of Bayesian statistics in Python.
+    My amateur efforts to learn machine learning are catalogued in my git repo [MachLearnPy](https://github.com/tomkimpson/MachLearnPy). It is currently in its infancy, but hopefully in time it will develop into a valuable collection of ML resources.
 
+* __Bayesian Statistics__. Bayesian statistics is a different approach to standard statistics where we quantify and preserve uncertainty. In this world-view, probability describes the belief of an *individual* in the likelihood of an event. This is a very different approach to the classical or *frequentist* framework, in which probability describes the long-term frequency of an event in the *universe*. As more evidence is obtained, the belief of this individual in the likelihood of an event is updated. Consequently, a Bayesian approach is particularly applicable in science, especially in the case of rare events (e.g. gravitational wave signals.)   
+
+An excellent introductory text is [Bayesian methods for Hackers](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb) from Cameron Davidson-Pilon, which takes a 'dirty', hands-on, computational approach in Python, rather than the standard formal mathematical path. My scrap-notes and exercises from the book can be found in my [github repo](https://github.com/tomkimpson/BayesianMethodsForHackers).
 
 
 
