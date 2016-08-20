@@ -57,7 +57,7 @@ owner:
   bing-verify: 
   github: tomkimpson
   stackoverflow: 
-  linkedin: #username
+  linkedin: tomkimpson
   xing: #username
   instagram: #username
   lastfm: #username
@@ -69,7 +69,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: photos/134709935@N06/
+  flickr: #photos/134709935@N06/
   codepen: #username
 
 include: [".htaccess"]
