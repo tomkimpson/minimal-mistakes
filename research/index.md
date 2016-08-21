@@ -17,7 +17,7 @@ My current (*upcoming*!) PhD research involves theoretically investigating the c
 
 
 
-<a href="http://chandra.harvard.edu/photo/2013/vela/" rel="some text"><img src="{{ site.url }}/images/belvedere.png" alt="HTML tutorial" style="width:42px;height:42px;border:0;" /></a>
+<a href="http://chandra.harvard.edu/photo/2013/vela/" rel="some text"><img src="{{ site.url }}/images/vela.png" alt="Vela" ALIGN="right" style="width:100px;height:100px;border:0;" /></a>
 
 
 
