@@ -33,6 +33,8 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 * [IPython Jupyter Notebooks Guide](http://quant-econ.net/py/getting_started.html)
 
+* [Linear Programming in Python](http://tomkimpson.com/CVXOPT/)
+
 
 ### Great Blogs
 

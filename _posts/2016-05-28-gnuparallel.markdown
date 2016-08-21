@@ -11,15 +11,14 @@ date: 2016-01-02T18:29:39-07:00
 
 ---
 
-[GNU parallel](http://www.gnu.org/software/parallel/) is a handy tool for easily executing jobs in parallel across any number of cores.
+[GNU parallel](http://www.gnu.org/software/parallel/) is a handy tool for easily executing jobs in parallel across any number of cores. <br> <br>
 
-Suppose we have 32 jobs we want to run across 4 cores. A simple way to parallelize this is to run 8 jobs on each core. GNU parallel instead starts a new process when one finishes, keeping all cores actve and reducign the dead time.
-
+Suppose we have 32 jobs we want to run across 4 cores. A simple way to parallel-ize this is to run 8 jobs on each core. GNU parallel instead starts a new process when one finishes, keeping all cores active and reducing the dead time. <br> <br>
 Installation:
 
         (wget -O - pi.dk/3 || curl pi.dk/3/ || fetch -o - http://pi.dk/3) | bash
 
-Suppose you then have a X jobs named `script_n.sh` for identifier $n$. The easy way to run this across Y cores is simply
+Suppose you then have a X jobs named `script_n.sh` for identifier n. The easy way to run this across Y cores is simply
 
         parallel -j Y bash -c ::: ./script_*.sh
 
