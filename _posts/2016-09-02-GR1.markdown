@@ -1,0 +1,14 @@
+---
+layout: post
+title: "GR: 01 - Special Relativity"
+modified:
+categories:
+excerpt: "Special Relativity"
+tags: [GR]
+image:
+feature:
+date: 2016-09-02T00:00:00-07:00
+
+---
+
+>This is the first post in a series of posts trialling the use of blogging for condensing and collecting academic notes. The idea is to have a central collection of dynamic and interactive notes, i.e. notes that can be continually updated and edited and also that can have a structure that does not obstruct the main points being made. Often in traditional physics texts a long derivation can interrupt the trail of thought of the main topic. By having notes on a blog, extras such as derivations or miscellaneous points can be hosted and linked to as a separate blog post, in a Wikipedia style, without interrupting the overall structure. These are ** personal** notes and so I may skip over bits that I find straightforward yet others might find difficult, or labour on topics that someone might view as being easy and obvious.

@@ -2,7 +2,7 @@
 layout: post
 title: "Running in parallel"
 modified:
-categories: 
+categories:
 excerpt: "Usage of GNU parallel for running processes in parallel"
 tags: []
 image:
@@ -28,6 +28,4 @@ To prevent parallel quitting if you exit - i.e. if your remote session expires -
 
 An excellent full how-to guide is found [here](https://www.usenix.org/system/files/login/articles/105438-Tange.pdf)
 
-
 ![without](http://i.stack.imgur.com/uH0Dh.png) ![with](http://i.stack.imgur.com/17FsG.png)
-
