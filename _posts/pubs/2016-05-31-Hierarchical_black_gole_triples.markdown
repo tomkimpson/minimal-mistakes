@@ -7,7 +7,7 @@ excerpt: "Hierarchical black hole triples in young star clusters:"
 pub:
   authors: "Kimpson. T, Spera. M, Mapelli. M, Ziosi. B"
   doi: 10.1093/mnras/stw2085
-  arXiv: 
+  arXiv: 1608.05422
   jref:
 image:
   feature:

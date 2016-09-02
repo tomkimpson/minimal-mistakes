@@ -15,7 +15,7 @@ date: 2016-09-02T00:00:00-08:00
 
 We can write a vector with components $$ x^i$$ and basis $$ e_i$$ using **Einstein Summation notation** as
 
-$$ \vec{r} = x^1 \vec{e}_1 + x^2 \vec{e}_2 x^3 \vec{e}_3 = \Sigma_i x^i \vec{e}_i = x^i \vec{e}_i $$
+$$ \vec{r} = x^1 \vec{e}_1 + x^2 \vec{e}_2 + x^3 \vec{e}_3 = \Sigma_i x^i \vec{e}_i = x^i \vec{e}_i $$
 
 In a coordinate system, basis vectors are tangent to the coordinate lines such that,
 
@@ -28,3 +28,29 @@ $$ \tilde V = V_a \omega^a ; \omega^a e_b = \delta_b^a$$
 We can transform from one frame to another as (in the covariant case)
 
 ### 2.2 The Metric
+
+Fundamentally, geometry can be described by Pythagoras. An interval in 4D spacetime is written as,
+
+$$ ds^2 = g_{ab} dx^a dx^b$$
+
+The **metric** $$ g_{ab}$$ is a second rank, symmetric tensor. Note that some authors use the term **signature** to refer to the **trace** of the metric matrix.
+
+The metric inverse is defined by,
+
+$$ g_{ab} g^{bc} = \delta_a^c$$
+
+It can be used for raising/lowering indices as,
+
+$$ V_a = g_{ab} V^b$$
+
+The dot product of two vectors is then,
+
+$$ V \cdot W =V_a W^a = g_{ab} V^b W^a$$
+
+The null vector $$ V^a$$ satisfies,
+
+$$ g_{ab} V^a V^b = 0$$
+
+The flat metric of Minkowski spacetime, the **Minkowskian** is
+
+$$ \eta_{ab} = diag(-1,1,1,1) $$
