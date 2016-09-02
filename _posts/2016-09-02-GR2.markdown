@@ -1,0 +1,30 @@
+---
+layout: post
+title: "GR: 02 - Vectors, Tensors and the Metric"
+modified:
+categories:
+excerpt: "Vectors, Tensors, The Metric"
+tags: [GR]
+image:
+feature:
+date: 2016-09-02T00:00:00-08:00
+
+---
+
+### 2.1 Vectors
+
+We can write a vector with components $$ x^i$$ and basis $$ e_i$$ using **Einstein Summation notation** as
+
+$$ \vec{r} = x^1 \vec{e}_1 + x^2 \vec{e}_2 x^3 \vec{e}_3 = \Sigma_i x^i \vec{e}_i = x^i \vec{e}_i $$
+
+In a coordinate system, basis vectors are tangent to the coordinate lines such that,
+
+$$ \vec{e_a} = \partial_a = \frac{\partial}{\partial x^a}$$
+
+A tensor of type $$ (0,N) $$ is a function which takes $$ N $$ vectors and outputs a real number. If $$ N=1$$, the tensor is a **one form** or **covariant vector** i.e. a one-form is a linear scalar function of a vector.
+
+$$ \tilde V = V_a \omega^a ; \omega^a e_b = \delta_b^a$$
+
+We can transform from one frame to another as (in the covariant case)
+
+### 2.2 The Metric
