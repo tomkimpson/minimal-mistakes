@@ -14,7 +14,11 @@ date: 2016-09-02T00:00:00-07:00
 >This is the first post in a series of posts trialling the use of blogging for condensing and collecting academic notes. The idea is to have a central collection of dynamic and interactive notes, i.e. notes that can be continually updated and edited and also that can have a structure that does not obstruct the main points being made. Often in traditional physics texts a long derivation can interrupt the trail of thought of the main topic. By having notes on a blog, extras such as derivations or miscellaneous points can be hosted and linked to as a separate blog post, in a Wikipedia style, without interrupting the overall structure. These are **personal** notes and so I may skip over bits that I find straightforward yet others might find difficult, or labour on topics that someone might view as being easy and obvious. In places I may also use notation or terms that I am familiar with, without pausing to explain it. Nevertheless, the notes should be intelligible to someone who has studied the material elsewhere before. With all that throat clearing out the way, let's begin:
 
 ### 1.1 Origins
-The origin of special relativity is a set of paradoxes discovered during the pioneering days in the study of electromagnetism (EM). <br> <br> It was found empirically that $$ \nabla \times \vec{B} = \mu_0 \vec{J}$$
+The origin of special relativity is a set of paradoxes discovered during the pioneering days in the study of electromagnetism (EM).
+
+It was found empirically that
+
+$$ \nabla \times \vec{B} = \mu_0 \vec{J} $$
 
 However, this equation could not be wholly correct. By vector calculus
 
@@ -26,9 +30,9 @@ $$ \nabla \cdot J = - \frac{\partial \rho}{\partial t} $$
 
 Taking the divergence of Ampere's law, along with the continuity equation and Gauss' Law $$\nabla \cdot \vec{E} = \rho/\epsilon_0$$ then leads to,
 
-$$ \nabla \cdot (\nabla \times \vec{B}_ = \nabla \cdot ( \mu_0 \vec{J}) = - \nabla \cdot (\mu_0 \epsilon_0 \frac{\partial E}{\partial t})$$
+$$ \nabla \cdot (\nabla \times \vec{B}) = \nabla \cdot ( \mu_0 \vec{J}) = - \nabla \cdot (\mu_0 \epsilon_0 \frac{\partial E}{\partial t})$$
 
-which is in conflict with the original vector calculus requirement.
+which is in conflict with the original vector calculus requirement. <br> <br>
 
 This lead to Maxwell modifying Ampere's equation as:
 
@@ -36,11 +40,13 @@ $$\nabla \times \vec{B} = \mu_0 \vec{J} + \mu_o \epsilon_0 \frac{\partial E}{\pa
 
 From Maxwell's equations it is simple to show that $$ E$$ and $$ B$$ both satisfy the wave equation,
 
-$$ \nabla^2 f = \frac{1}{v^2} \frac{\partial^2 f}{\partial t^2}$$ such that
+$$ \nabla^2 f = \frac{1}{v^2} \frac{\partial^2 f}{\partial t^2} $$
+
+such that
 
 $$ v = \frac{1}{\sqrt{\mu_0 \epsilon_0}} = c$$.
 
-This is a ** key insight**: in a vacuum EM waves always travel at $$c$$.
+This is a key insight: **in a vacuum EM waves always travel at $$c$$**.
 
 ### 1.2 Basics
 
