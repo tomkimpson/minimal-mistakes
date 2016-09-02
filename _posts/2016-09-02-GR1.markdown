@@ -85,11 +85,11 @@ $$ \gamma = \frac{1}{\sqrt{1-v^2/c^2}} = cosh \phi \, \, ; \beta = \frac{v}{c}$$
 
 The Lorentz transformations have two physical consequences:
 
-* Time dilation: For frame F' moving at velcoty w.r.t frame F, an interval as measured by an observer in F' is seen in F as
+* Time dilation: For frame F' moving at velocity w.r.t frame F, an interval as measured by an observer in F' is seen in F as
 
 $$ \Delta t = \gamma \Delta t'$$
 
-  i.e. the clock of F' runs slower
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.e. the clock of F' runs slower
 
 * Length contraction:
 
