@@ -30,9 +30,7 @@ Taking the divergence of Ampere's law, along with the continuity equation and Ga
 
 $$ \nabla \cdot (\nabla \times \vec{B}) = \nabla \cdot ( \mu_0 \vec{J}) = - \nabla \cdot (\mu_0 \epsilon_0 \frac{\partial E}{\partial t})$$
 
-which is in conflict with the original vector calculus requirement. <br> <br>
-
-This lead to Maxwell modifying Ampere's equation as:
+which is in conflict with the original vector calculus requirement. <br> <br> This lead to Maxwell modifying Ampere's equation as:
 
 $$ \nabla \times \vec{B} = \mu_0 \vec{J} + \mu_o \epsilon_0 \frac{\partial E}{\partial t} $$
 
@@ -56,7 +54,7 @@ Quick overview of basic SR/GR terminology:
 
 * Invariant Interval: invariant 'distance' between two events in spacetime. Taking the form of the metric to be [-+++],
 
-$$ ds^2 = -c^2 dt^2 + dx^2 +dy^2 +dz^2 = g_ab dx^a dx^b$$
+$$ ds^2 = -c^2 dt^2 + dx^2 +dy^2 +dz^2 = g_{ab} dx^a dx^b$$
 
 ### 1.3 The Postulates of Special Relativity
 
@@ -70,15 +68,15 @@ These assumptions mandate that Galilean transformations no longer apply between 
 
 $$ F' = L F$$
 
-For frame F' moving with veloity $v$ along the $x'-x$ axis, the *L* transformation matrix is,
+For frame $$F'$$ moving with velocity $$v$$ along the shared $$x'-x$$ axis, the *L* transformation matrix is,
 
 $$ L =
 \begin{bmatrix}
-cosh \phi & -sinh \phi 0 & 0 \\
+cosh \phi & -sinh \phi & 0 & 0 \\
 -sinh \phi & cosh \phi & 1 & 0 \\
 0 & 0 & 1 & 0 \\
 0 & 0 & 0 & 1  
-\end{bmatrix}$$$
+\end{bmatrix}$$
 
 where
 
@@ -91,7 +89,7 @@ The Lorentz transformations have two physical consequences:
 
 $$ \Delta t = \gamma \Delta t'$$
 
-i.e. the clock of F' runs slower
+  i.e. the clock of F' runs slower
 
 * Length contraction:
 
@@ -108,7 +106,7 @@ Some important 4-vectors and quantities:
 
 $$ \vec{u} = \frac{d \vec{x}}{d \tau}$$
 
-for proper time $$ \tau$$.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for proper time $$ \tau$$.
 
 * Energy,
 
@@ -124,6 +122,6 @@ $$ m = \gamma m_0 \approx m_0 + \frac{1}{2} m_0 \frac{v^2}{c^2}$$
 
 and so
 
-$$ mc62 = m_0 c^2 + \frac{1}{2} m_0 v^2$$
+$$ mc^2 = m_0 c^2 + \frac{1}{2} m_0 v^2$$
 
-i.e. = rest mass + Newtonian K.E.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.e. = rest mass + Newtonian K.E.
