@@ -94,4 +94,4 @@ $$ \epsilon_{abcd}=
 0, & \text{else}
 \end{cases}$$
 
-![Levi-Cevita](https://en.wikipedia.org/wiki/Levi-Civita_symbol#/media/File:Permutation_indices_3d_numerical.svg)
+![Levi-Cevita](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Permutation_indices_3d_numerical.svg/388px-Permutation_indices_3d_numerical.svg.png)
