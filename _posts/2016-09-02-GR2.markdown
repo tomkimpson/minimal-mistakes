@@ -63,23 +63,19 @@ $$ \eta_{ab} = diag(-1,1,1,1) $$
 
 ### 2.3 Manifolds and Parameterized Curves
 
-A **manifold** can simply be thought of as a continuous space of points. Globally it can have any geometry, but locally it looks flat. A **differentiable manifold** has the property that it is both continuous and differentiable. <br> <br>
-
-**Parameterized Curves:** a point that moves through space traces out a curve. This curve can be parameterized e.g.
+A **manifold** can simply be thought of as a continuous space of points. Globally it can have any geometry, but locally it looks flat. A **differentiable manifold** has the property that it is both continuous and differentiable. <br> <br> **Parameterized Curves:** a point that moves through space traces out a curve. This curve can be parameterized e.g.
 
 $$ x^a = x^a(\lambda)$$
 
-The curve is described by a set of $$ n$$ parametric equations, for $$ n$$ dimensions. <br> <br>
-
-Let $$ x^a(\lambda)$$ be a parameterized curve. We can expand the differential vector in terms of a set of basis vectors:
+The curve is described by a set of $$ n$$ parametric equations, for $$ n$$ dimensions. <br> <br> Let $$ x^a(\lambda)$$ be a parameterized curve. We can expand the differential vector in terms of a set of basis vectors:
 
 $$ \frac{d}{d \lambda} = \frac{d x^a}{d \lambda} \cdot \frac{\partial}{\partial x^a}$$
 
 ### 2.4 Notation and Definitions
 
-Authors often use a bracket notation, in the form $$ <one form, vector>$$. In this case, the dot product can be written as,
+Authors often use a bracket notation, in the form $$ <\text{one form}, \text{vector}>$$. In this case, the dot product can be written as,
 
-$$ p \cdot v = <\tilde p, \vec{v}> = p_a v^a$$.
+$$ p \cdot v = <\tilde p, \vec{v}> = p_a v^a $$
 
 **Symmetric tensor**:
 
@@ -89,7 +85,7 @@ $$ B_{ab} = B_{ba} \, \, ; \, \, T_{(ab)} = \frac{1}{2}(T_{ab}+T_{ba})$$
 
 $$ B_{ab} = -B_{ba} \, \, ; \, \, T_{[ab]} = \frac{1}{2}(T_{ab}-T_{ba})$$
 
-[**Levi-Cevita** tensor:](https://en.wikipedia.org/wiki/Levi-Civita_symbol#Three_dimensions)
+**Levi-Cevita tensor**:
 
 $$ \epsilon_{abcd}=
 \begin{cases}
@@ -97,3 +93,5 @@ $$ \epsilon_{abcd}=
 -1, & \text{if $n$ is odd} \\
 0, & \text{else}
 \end{cases}$$
+
+((see here also))[https://en.wikipedia.org/wiki/Levi-Civita_symbol#Three_dimensions]
