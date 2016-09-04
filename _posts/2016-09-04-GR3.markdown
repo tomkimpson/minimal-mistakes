@@ -63,7 +63,7 @@ In GR, the torsion tensor is taken to vanish, and so the Christoffel connection 
 
 The Christoffel symbols [can be shown](http://tomkimpson.com/GR3.1-ChristoffelDeriv/) to be related to the metric via,
 
-$$ \Gamma_{bc}^a = \frac{1}{2} g^{ad} (\partial_a g_{bd} + \partial_b g_{cd} - \partial_d g_{ab})$$
+$$ \Gamma_{ca}^f = \frac{1}{2} g^{fb} (\partial_c g_{ab} + \partial_a g_{bc} - \partial_d g_{ca})$$
 
 ### 3.4 The Exterior Derivative
 An extension to the one-forms $$ (0,1)$$ we have been discussing are p-forms $$ (0,p)$$. <br> <br> We can construct higher order forms by using the wedge product, i.e. we can construct a two-from, from two one forms as
@@ -81,8 +81,7 @@ Exterior derivative of :
 $$ d(f_a dx^a) = df_a \wedge dx^a$$
 
 * General p-form $$ \alpha$$ and q-form
-
-$$ \beta$$, $$ d(\alpha \wedge \beta) = d \alpha \wedge \beta + (-1)^p \alpha \wedge d \beta$$
+$$ \beta$$, $$ d(\alpha \wedge \beta) = d \alpha \wedge \beta + (-1)^p \alpha \wedge d \beta $$
 
 Some nice properties of the exterior derivative are,
 
@@ -98,3 +97,70 @@ Some nice properties of the exterior derivative are,
 The Lie Derivative is defined,
 
 $$ L_V W = V^b \nabla_b W^a - W^b \nabla_b V^a$$
+
+### 3.5 Geodesics and the absolute derivative
+
+For a curve parameterized by $$ \lambda$$, the absolute derivative of vector $$ V$$, is
+
+$$ \frac{D V^a}{D \lambda} = \frac{d V^a}{d \lambda} + \Gamma_{bc}^a u^b V^c$$
+
+where $$ u^b$$ is a tangent to the curve. The absolute derivative is important as it allows us to find **geodesics** <br> <br> A geodesic can be thought of as the shortest distance between two points. If a curve is a geodesic, then the tangent vector $$ u$$ satisfies,
+
+$$ \frac{D u^a}{D \lambda} = \alpha u^a$$
+
+where $$ \alpha$$ is a scalar function of $$ \lambda$$. Since $$ u^a = \frac{dx^a}{d \lambda}$$ then,
+
+$$ \frac{d^2 x^a}{d \lambda^2} + \Gamma_{bc}^a \frac{d x^b}{d \lambda} \frac{dx^c}{d \lambda} = \alpha \frac{dx^a}{d \lambda}$$
+
+The curve can be re-parameterized in such a way that $$ \alpha=0$$. The parameter for which this is the case is known as the **affine parameter**. Therefore for affine parameter $$ s$$,
+
+$$ \frac{d^2 x^a}{d s^2} + \Gamma_{bc}^a \frac{d x^b}{d s} \frac{dx^c}{d s} = 0$$
+
+Geometrically this means that the vector $$ u$$ is parallel transported along a curve.
+
+### 3.6 The Riemann, Ricci and Einstein tensors
+
+The Riemann tensor is given by,
+
+$$ R^a_{bcd} = \partial_c \Gamma^a_{bd} - \partial_d \Gamma^a_{bc} +\Gamma^e_{bd}\Gamma^a_{ec}-\Gamma^e_{bc}\Gamma^a_{ed} $$
+
+We can lower the first index with the metric,
+
+$$ R_{abcd} = g_{ae} R^e_{bcd}$$
+
+Symmetries:
+$$ R_{abcd} =R_{cdab}=-R_{abdc}=-R_{bacd} $$
+
+$$ R_{abcd}+R_{acdb}+R_{adbc}=0$$
+
+Computation of these quantities is long and tedious - in the next section we will discuss the use of a non-coordinate basis for making everything easier. <br> <br> The **Ricci tensor** is the contraction of the Riemann tensor,
+
+$$ R_{ab} = R^c_{acb}$$
+
+This too is symmetric. <br> <br> The **Ricci scalar** is then,
+
+$$ R = g^{ab} R_{ab} = R^a_a$$
+
+The **Einstein tensor** is,
+
+$$ G_{ab} = R_{ab} - \frac{1}{2} R g_{ab}$$
+
+### 3.7 The Weyl Tensor
+
+The Weyl tensor is given by,
+
+$$ C_{abcd} = R_{abcd} = \frac{1}{2}(g_{ad}R_{cb}+g_{bc}R_{da}-g_{ac}R_{db}-g_{bd}R_{ca}) + \frac{1}{6} (g_{ac} g_{db} - g_{ad}g_{cb})R$$
+
+It is also known as the **conformal tensor**. <br> <br>
+
+Two metrics are conformally related if,
+
+$$ \bar{g}_{ab} = \omega^2 (x) g_{ab}$$
+
+ for some differentiable function $$ \omega(x)$$
+
+ A metric is conformally flat if there exists a function $$ \omega (x)$$ which relates the metric conformally to the Minkowskian,
+
+ $$ g_{ab} = \omega^2 (x) \eta_{ab}$$
+
+ A nice property of the Weyl tensor is that $$ C^a_{bcd}$$ is the same for an initial metric and any metric conformally related to this initial metric.
