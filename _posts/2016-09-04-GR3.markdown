@@ -1,0 +1,96 @@
+---
+layout: post
+title: "GR: 03 - Tensor Calculus"
+modified:
+categories:
+excerpt: "Tensor Calculus"
+tags: [GR]
+image:
+feature:
+date: 2016-09-04T00:00:00-08:00
+
+---
+We want the laws of physics to be invariant - true for all observers. This is why tensors are so important - a tensor equation is true in all coordinate systems.
+
+### 3.1 The Covariant Derivative
+
+Derivatives in curved space are not as simple as in the Cartesian case. This is because the basis vectors themselves vary from point to point. <br> <br> e.g. take a vector $$ \vec{A}$$ and differentiate it:
+
+$$ \partial_a \vec{A} = \partial_a (A^b \vec{e}_b) = (\partial_a A^b) \vec{e}_b + A^b (\partial_a \vec{e}_b)$$
+
+In the Cartesian case we can simple toss the second term, but this is not true generally (e.g. consider the case in spherical polars). <br> <br> In general, the derivative of the basis vectors is given by,
+
+$$ \partial_b e_a = \Gamma_{ab}^c e_c$$
+
+where $$ \Gamma$$ are the **Christoffel symbols** - think of these as correction terms to account for the basis changing. <br> <br> The derivative of a vector can then be written as,
+
+$$
+\begin{cases}
+\partial_a \vec{A} &= (\partial_a A^b) e_b + \Gamma_{ca}^b A^c e_b \\
+                   &= (\partial_a A^b + \Gamma_{ca}^b A^c) e_b \\
+                   &= \nabla_b A^a e_b
+\end{cases}
+$$
+
+The $$ \nabla$$ term defines the covariant derivative of a vector:
+
+$$ \boxed {\nabla_b A^a = \partial_b A^a + \Gamma^b_{ca} A^c}$$
+
+and similarly for a one-form:
+
+$$ \nabla_b \sigma_a = \partial_b \sigma_a - \Gamma^b_{ca} \sigma_c$$
+
+From these two expressions, we can define the covariant derivative of an arbitrary tensor:
+
+$$
+\begin{cases}
+\nabla_c T^a_b &= \nabla_c (A^a B_b) \\
+               &=(\partial_c A^a + \gamma^c_{ad}A^d)B_b + A^a(\partial_c B_b - \Gamma_{bc}^d B_d)  \\
+               &= \partial_c T^a_b + \Gamma_{ad}^c T^d_b - \Gamma_{bc}^d T^a_d
+\end{cases}
+$$
+
+A nice quick general rule is: **take the partial derivative of the tensor, then add a $$ \Gamma^c_{ab}$$ term for each contravariant index and subtract a $$\Gamma^c_{ab} for each covariant index $$**
+
+### 3.2 The Torsion Tensor
+The Torsion tensor is defined,
+
+$$ T^a_{bc} = \Gamma_{bc}^a - \Gamma_{cb}^a = 2 \Gamma^a_{[bc]}$$
+
+In GR, the torsion tensor is taken to vanish, and so the Christoffel connection is symmetric. There do exist theories of gravity, such as [Einsten-Cartan theories](https://en.wikipedia.org/wiki/Einstein–Cartan_theory) in which the torsion tensor does not vanish.
+
+### 3.3 Christoffel Symbols and the Metric
+
+The Christoffel symbols [can be shown](http://tomkimpson.com/GR3.1-ChristoffelDeriv/) to be related to the metric via,
+
+$$ \Gamma_{bc}^a = \frac{1}{2} g^{ad} (\partial_a g_bd + \partial_b g_{cd} - partial_d g_{ab})$$
+
+### 3.4 The Exterior Derivative
+An extension to the one-forms $$ (0,1)$$ we have been discussing are p-forms $$ (0,p)$$. <br> <br> We can construct higher order forms by using the wedge product, i.e. we can construct a two-from, from two one forms as
+
+$$ \alpha \bigwedge \beta = \alpha \otimes \beta - \beta \otimes \alpha$$
+
+
+One use of the wedge product is in calculating the exterior derivative. <br> <br> The exterior derivative extends the concept of the differential of a function to higher degree differential forms. <br> <br> The exterior derivative is denoted by the symbol $$ d$$ and maps a $$ p$$ form into a $$ p+1$$ form. <br> <br>
+Exterior derivative of :
+
+* 0-form: This is just an ordinary function, $$ df = \frac{\partial f}{\partial x^a} d x^a$$
+
+* 1-form: Considering a one form as a function multiplied by a differential, then $$ d(f_a dx^a) = df_a \bigwedge dx^a$$
+
+* General p-form $$ \alpha$$ and q-form $$ \beta$$, $$ d(\alpha \bigwedge \beta) = d \alpha \bigwedge \beta + (-1)^p \alpha \bigwedge d \beta$$
+
+Some nice properties of the exterior derivative are,
+
+* $$ d^2 =0$$ such that $$ d(d \alpha) =0$$
+
+* Closed form $$ \alpha$$ have $$ d \alpha =0$$.
+
+* Exact form $$ \alpha = d \beta$$ where $$ \alpha$$ is a p form and $$ \beta$$ a p+1 form.
+
+
+### 3.4 The Lie Derivative
+
+The Lie Derivative is defined,
+
+$$ L_V W = V^b \nabla_b W^a - W^b \nabla_b V^a$$

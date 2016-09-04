@@ -1,0 +1,32 @@
+---
+layout: post
+title: "GR: 03.1 -Aside: Derivation of Christoffel relation to metric"
+modified:
+categories:
+excerpt: "Short derivation"
+tags: [GR]
+image:
+feature:
+date: 2016-09-04T00:00:00-08:00
+
+---
+
+First take the derivative of the metric,
+
+$$
+\begin{cases}
+\partial_c g_{ab} &= \partial_c (e_a \cdot e_b) \\
+                   &= (\partial_c e_a) e_b + e_a (\partial_c e_b) \\
+                   &= \Gamma_{ac}^d g_{db} + \Gamma_{bc}^f g_{af}
+\end{cases}
+$$
+
+From this relation we can then cyclically permute the indices,
+
+$$ \partial_a g_{bc} = \Gamma_{ba}^d g_{dc} + \Gamma_{ca}^d g_{bd}$$
+
+$$ \partial_b g_{ca} = \Gamma_{cb}^d g_{da} + \Gamma_{ab}^d g_{cd}$$
+
+and then combine each of the identities so that,
+
+$$ \rightarrow \Gamma_{ca}^f = \frac{1}{2} g^{fb} (\partial_c g_{ab} + \partial_a g_{bc} - \partial_b g_ca)$$
