@@ -151,15 +151,11 @@ The Weyl tensor is given by,
 
 $$ C_{abcd} = R_{abcd} = \frac{1}{2}(g_{ad}R_{cb}+g_{bc}R_{da}-g_{ac}R_{db}-g_{bd}R_{ca}) + \frac{1}{6} (g_{ac} g_{db} - g_{ad}g_{cb})R$$
 
-It is also known as the **conformal tensor**. <br> <br>
-
-Two metrics are conformally related if,
+It is also known as the **conformal tensor**. <br> <br> Two metrics are conformally related if,
 
 $$ \bar{g}_{ab} = \omega^2 (x) g_{ab}$$
 
- for some differentiable function $$ \omega(x)$$
-
- A metric is conformally flat if there exists a function $$ \omega (x)$$ which relates the metric conformally to the Minkowskian,
+ for some differentiable function $$ \omega(x)$$ <br> <br> A metric is conformally flat if there exists a function $$ \omega (x)$$ which relates the metric conformally to the Minkowskian,
 
  $$ g_{ab} = \omega^2 (x) \eta_{ab}$$
 
