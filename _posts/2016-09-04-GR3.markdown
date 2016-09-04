@@ -43,11 +43,11 @@ $$ \nabla_b \sigma_a = \partial_b \sigma_a - \Gamma^b_{ca} \sigma_c$$
 From these two expressions, we can define the covariant derivative of an arbitrary tensor:
 
 $$
-\begin{cases}
+\begin{align}
 \nabla_c T^a_b &= \nabla_c (A^a B_b) \\
                &=(\partial_c A^a + \gamma^c_{ad}A^d)B_b + A^a(\partial_c B_b - \Gamma_{bc}^d B_d)  \\
                &= \partial_c T^a_b + \Gamma_{ad}^c T^d_b - \Gamma_{bc}^d T^a_d
-\end{cases}
+\end{align}
 $$
 
 A nice quick general rule is: **take the partial derivative of the tensor, then add a $$ \Gamma^c_{ab}$$ term for each contravariant index and subtract a $$\Gamma^c_{ab} for each covariant index $$**
