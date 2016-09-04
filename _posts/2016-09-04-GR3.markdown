@@ -63,7 +63,7 @@ In GR, the torsion tensor is taken to vanish, and so the Christoffel connection 
 
 The Christoffel symbols [can be shown](http://tomkimpson.com/GR3.1-ChristoffelDeriv/) to be related to the metric via,
 
-$$ \Gamma_{bc}^a = \frac{1}{2} g^{ad} (\partial_a g_bd + \partial_b g_{cd} - \partial_d g_{ab})$$
+$$ \Gamma_{bc}^a = \frac{1}{2} g^{ad} (\partial_a g_{bd} + \partial_b g_{cd} - \partial_d g_{ab})$$
 
 ### 3.4 The Exterior Derivative
 An extension to the one-forms $$ (0,1)$$ we have been discussing are p-forms $$ (0,p)$$. <br> <br> We can construct higher order forms by using the wedge product, i.e. we can construct a two-from, from two one forms as
@@ -71,14 +71,18 @@ An extension to the one-forms $$ (0,1)$$ we have been discussing are p-forms $$ 
 $$ \alpha \wedge \beta = \alpha \otimes \beta - \beta \otimes \alpha$$
 
 
-One use of the wedge product is in calculating the exterior derivative. <br> <br> The exterior derivative extends the concept of the differential of a function to higher degree differential forms. <br> <br> The exterior derivative is denoted by the symbol $$ d$$ and maps a $$ p$$ form into a $$ p+1$$ form. <br> <br>
+One use of the wedge product is in calculating the **exterior derivative**. <br> <br> The exterior derivative extends the concept of the differential of a function to higher degree differential forms. <br> <br> The exterior derivative is denoted by the symbol $$ d$$ and maps a $$ p$$ form into a $$ p+1$$ form. <br> <br>
 Exterior derivative of :
 
 * 0-form: This is just an ordinary function, $$ df = \frac{\partial f}{\partial x^a} d x^a$$
 
-* 1-form: Considering a one form as a function multiplied by a differential, then $$ d(f_a dx^a) = df_a \bigwedge dx^a$$
+* 1-form: Considering a one form as a function multiplied by a differential, then
 
-* General p-form $$ \alpha$$ and q-form $$ \beta$$, $$ d(\alpha \bigwedge \beta) = d \alpha \bigwedge \beta + (-1)^p \alpha \bigwedge d \beta$$
+$$ d(f_a dx^a) = df_a \wedge dx^a$$
+
+* General p-form $$ \alpha$$ and q-form
+
+$$ \beta$$, $$ d(\alpha \wedge \beta) = d \alpha \wedge \beta + (-1)^p \alpha \wedge d \beta$$
 
 Some nice properties of the exterior derivative are,
 
@@ -86,7 +90,7 @@ Some nice properties of the exterior derivative are,
 
 * Closed form $$ \alpha$$ have $$ d \alpha =0$$.
 
-* Exact form $$ \alpha = d \beta$$ where $$ \alpha$$ is a p form and $$ \beta$$ a p+1 form.
+* Exact form $$ \alpha = d \beta$$ where $$ \alpha$$ is a $$p$$ form and $$ \beta$$ a $$p+1$$ form.
 
 
 ### 3.4 The Lie Derivative
