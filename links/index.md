@@ -13,7 +13,7 @@ Some useful stuff - external links and some short "How-to"s from here.
 
 ### Notes
 
-* [General Relativity](www.google.com). Homepage for personal notes on GR
+* [General Relativity](http://tomkimpson.com/GRHome/). Homepage for personal notes on GR
 
 ### Software
 
