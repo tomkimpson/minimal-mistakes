@@ -11,6 +11,10 @@ image:
 
 Some useful stuff - external links and some short "How-to"s from here.  
 
+### Notes
+
+* [General Relativity](www.google.com). Homepage for personal notes on GR
+
 ### Software
 
 * [astropy](http://www.astropy.org). Very useful Python package for astro.
@@ -49,7 +53,7 @@ Some useful stuff - external links and some short "How-to"s from here.
 * [Jake Vanderplas', Pythonic Perambulations](https://jakevdp.github.io)
 
 
-### Data Science and ML 
+### Data Science and ML
 
 * [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
