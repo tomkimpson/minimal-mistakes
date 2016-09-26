@@ -12,7 +12,7 @@ date: 2016-09-02T00:00:00-07:00
 ---
 
 ### 1.1 Origins
-The origin of special relativity is a set of paradoxes discovered during the pioneering days in the study of electromagnetism (EM). <br> <br> It was found empirically that
+The origin of special relativity is a set of paradoxes discovered during the pioneering days in the study of electromagnetism (EM). <br> <br> It was found empirically that (Ampere's Law),
 
 $$ \nabla \times \vec{B} = \mu_0 \vec{J} $$
 
