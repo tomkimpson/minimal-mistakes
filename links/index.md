@@ -11,10 +11,6 @@ image:
 
 Some useful stuff - external links and some short "How-to"s from here.  
 
-### Notes
-
-* [General Relativity](http://tomkimpson.com/GRHome/). Homepage for personal notes on GR
-
 ### Software
 
 * [astropy](http://www.astropy.org). Very useful Python package for astro.
