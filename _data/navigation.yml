@@ -6,9 +6,6 @@
 - title: Publications
   url: /pubs/
 
-- title: Interests
-  url: /interests/
-
 - title: Links
   url: /links/
 
@@ -16,7 +13,7 @@
   url: /CV.pdf
   alt: Curriculum Vitae
 
-- title: All
+- title: All Posts
   url: /posts/
 
 
