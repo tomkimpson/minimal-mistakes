@@ -48,6 +48,11 @@
   font-size: $type-size-4;
 }
 
+/* Need a bit more room between the headline and the article */
+.page__inner-wrap > header {
+  margin-bottom: 1em;
+}
+
 .page__content {
 
   h2 {
