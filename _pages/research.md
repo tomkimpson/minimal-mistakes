@@ -1,16 +1,23 @@
 ---
-layout: page
-title: "Research"
-date: 2016-05-28
-modified: 2016-05-28
+title: "Research Interests"
+date: 2011-07-17
+permalink: /research/
+modified: 2015-08-30
 excerpt:
-tags: [research]
-image:
-  feature:
+tags:
 ---
 
-<i>"If we knew what it was we were doing, it would not be called research, would it?"</i> <br> <br>
+I research various aspects of gravity from an astrophysical
+standpoint. I'm a member of the [TAPIR](http://www.tapir.caltech.edu/
+"Theoretical astrophysics including relativity") group at Caltech.
 
-I am primarily interested in the dynamics and mergers of compact objects i.e. neutron stars and black holes. These objects provide some of the most aggressive and extreme environments in the universe and their mergers are the primary source of detectable gravitational waves with [LIGO](https://www.ligo.caltech.edu)/[VIRGO](http://public.virgo-gw.eu/language/en/). Research into compact objects also complements an interest in the progenitors and detection of Gamma Ray Bursts, for which the current leading (short) progenitor model involves the merger of either a NS-BH or NS-NS system (or maybe even [BH-BH](https://arxiv.org/abs/1602.03920)!).<br> <br>
+I'm mainly interested in testing general relativity, specifically in
+the high-curvature regime (think black holes, neutron stars,
+gravitational waves).  This page will be updated when I find some free
+time.
 
-My current PhD research involves theoretically investigating the complex dynamics of strong-gravity systems, such as NS-BH systems. These spinning, finite objects would not follow geodesics in the space-time manifold and consequently exhibit complex behaviours. For a fast spinning NS orbiting a BH, spin-curvature coupling leads to de-Sitter and Lense Thirring precession of the NS spin, and non-planar NS orbits. A hierarchical 3-body system of a double neutron star orbiting a BH would exhibit complex orbital and spin motions due to gravito-magnetism induced by orbit-orbit coupling. 
+Please see my [publications]({{ site.url }}/pubs/) page for papers and work in
+progress. You can also get a list of publications
+[on the arXiv](http://arxiv.org/a/stein_l_1),
+[on ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&amp;db_key=PHY&amp;db_key=PRE&amp;qform=AST&amp;arxiv_sel=astro-ph&amp;arxiv_sel=gr-qc&amp;arxiv_sel=hep-ph&amp;arxiv_sel=hep-th&amp;aut_logic=SIMPLE&amp;obj_logic=OR&amp;author=Stein%2C+Leo+C%0D%0A-Abbott%0D%0A-Lima&amp;object=&amp;start_mon=&amp;start_year=2000&amp;end_mon=&amp;end_year=&amp;ttl_logic=OR&amp;title=&amp;txt_logic=OR&amp;text=&amp;nr_to_return=200&amp;start_nr=1&amp;jou_pick=ALL&amp;ref_stems=&amp;data_and=ALL&amp;group_and=ALL&amp;start_entry_day=&amp;start_entry_mon=&amp;start_entry_year=&amp;end_entry_day=&amp;end_entry_mon=&amp;end_entry_year=&amp;min_score=&amp;sort=NDATE&amp;data_type=SHORT&amp;aut_syn=YES&amp;aut_wt=&amp;obj_wt=&amp;ttl_wt=&amp;txt_wt=&amp;version=1),
+or [on INSPIRE](http://inspirehep.net/search?p=exactauthor%3AL.C.Stein.2).
