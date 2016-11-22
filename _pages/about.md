@@ -8,41 +8,10 @@ header:
   overlay_filter: 0.3
 ---
 
-![]({{ site.url }}/images/leo_chalkboard_small.jpg)
+![]({{ site.url }}/images/belvedere.png)
 {: .align-right}
 
-I am currently a postdoctoral researcher in the
-[TAPIR](http://www.tapir.caltech.edu/ "Theoretical astrophysics
-including relativity") group at [Caltech](http://www.caltech.edu/).
-
-Briefly, my research interests are studying and testing general
-relativity and other theories of gravity from an astrophysical
-standpoint.
-
-I have investigated how “almost-general-relativity” theories can
-affect gravitational observables.  An important observation which
-would be able to distinguish between GR and almost-GR is the
-gravitational waves from two merging black holes, as recently detected
-by advanced LIGO.
-
-Please see my [research]({{ site.url }}/research/) page for more
-details of my research interests. You can also see my
-[publications]({{ site.url }}/pubs/) page for a list of my relevant
-publications and work in progress. For a summary, see my
-[curriculum vitae]({{ site.url }}/LeoCStein.pdf).
-
-About this site
-===============
-
-This site's name, *due to symmetry*, refers to one of the most
-important theorems in mathematical physics:
-[Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem).
-Noether's theorem says that every continuous symmetry of a physical
-system generates a corresponding conserved quantity, and its
-significance in modern physics can not be overstated.  This theorem
-bears the name of
-[Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether), who proved
-and published this theorem at a time when women were not allowed to
-teach in academia.  Not only did she shape modern physics and make
-formative contributions to abstract algebra, she also broke through
-the sexist barriers of her time.
+I am currently a Ph.D. candidate in Physics at [MSSL, UCL](http://www.ucl.ac.uk/mssl) undertaking research in the [Astrophysics group](http://www.ucl.ac.uk/mssl/astro). <br> <br>
+My Ph.D. research concerns the complex dynamics exhibited by black-hole - neutron star systems in strong gravity. Such spinning objects would not follow geodesics in the space-time manifold and exhibit interesting and complex spin and dynamical behaviours due to general relativistic effects.<br> <br>
+I received my Master's in Physics and Astronomy from Durham University in 2016. My thesis research was in the area of gamma ray bursts in the [Very High Energy Astro department](https://www.dur.ac.uk/cfai/vhegammaraygroup/), investigating the detectability of GRB's by the upcoming [CTA](https://portal.cta-observatory.org/Pages/Home.aspx), in addition to the radiation mechanisms present.<br> <br>
+I have also worked with the [ForDyS Group](http://web.pd.astro.it/mapelli/group.html) of INAF, Padova, where I have collaborated on the merger of compact object binaries and triples using N-Body simulations. More recently, I have worked for start-up [PRIX](http://www.prix.ai) using machine learning methods for dynamic pricing and revenue management.

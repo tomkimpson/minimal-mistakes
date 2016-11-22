@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Tom Kimpson"
-  avatar           : "bio-pic.jpg"
+  avatar           : "images/bio-pic.jpg"
   bio              : "PhD student in Theoretical Astro @ MSSL, UCL. General relativity & spinning BH-NS systems."
   location         : "MSSL, Surrey"
   email            : "tom.kimpson.16@ucl.ac.uk"
