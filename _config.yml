@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom K"
+title                    : "Tom Kimpson"
 title_separator          : "-"
-name                     : "K Tom"
-description              : "Newbie Specializing in gravity and general relativity."
+name                     : "Tom Kimpson"
+description              : "Newbie studying gravity and general relativity."
 #url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : "https://tomkimpson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -56,9 +56,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "duetosymmetry"
+  username               : "tomkimpson"
 facebook:
-  username               : "leo.stein"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : "apple-eye.png" # Open Graph/Twitter default site image
@@ -78,20 +78,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "TK"
-  avatar           : "bio-photo.jpg"
-  bio              : "NOOB. Gravitational waves, general relativity and beyond."
-  location         : "Pasadena, CA"
-  email            : "leostein@tapir.caltech.edu"
+  name             : "Tom Kimpson"
+  avatar           : "bio-pic.jpg"
+  bio              : "PhD student in Theoretical Astro @ MSSL, UCL. General relativity & spinning BH-NS systems."
+  location         : "MSSL, Surrey"
+  email            : "tom.kimpson.16@ucl.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "leo.stein"
+  facebook         :
   foursquare       :
-  github           : "duetosymmetry"
-  google_plus      : "LeoStein"
+  github           : "tomkimpson"
+  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "duetosymmetry"
+  twitter          : "KimpsonTom"
   vine             :
   weibo            :
   xing             :
