@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: About
-    url: /about/
-  - title: Research
-    url: /research/
-  - title: All Posts
-    url: /posts/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+- title: About
+  url: /about/
+
+- title: Research
+  url: /research/
+
+- title: All Posts
+  url: /posts/
+
+- title: "Sample Collections"
+  url: /collection-archive/
+
+- title: "Sitemap"
+  url: /sitemap/
