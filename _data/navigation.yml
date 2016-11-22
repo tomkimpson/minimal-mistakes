@@ -1,16 +1,20 @@
-# main links
+# Site navigation links
 main:
 - title: About
   url: /about/
 
+- title: CV
+  url: /LeoCStein.pdf
+  alt: Curriculum Vitae
+
 - title: Research
   url: /research/
+
+- title: Publications
+  url: /pubs/
 
 - title: All Posts
   url: /posts/
 
-- title: "Sample Collections"
-  url: /collection-archive/
-
-- title: "Sitemap"
-  url: /sitemap/
+- title: Links
+  url: /links/
