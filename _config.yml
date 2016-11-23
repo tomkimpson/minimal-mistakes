@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom Kimpson66"
+title                    : "Tom Kimpson77"
 title_separator          : "-"
-name                     : "Tom Kimpson"
+name                     : "Tom Kimpson11"
 description              : "Newbie studying gravity and general relativity."
 #url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : "https://tomkimpson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tom Kimpson"
+  name             : "Tom Kimpson 13"
   avatar           : "images/bio-pic.jpg"
   bio              : "PhD student in Theoretical Astro @ MSSL, UCL. General relativity & spinning BH-NS systems."
   location         : "MSSL, Surrey"
