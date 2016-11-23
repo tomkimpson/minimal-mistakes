@@ -26,7 +26,34 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          {% if page.title %}<h1 class="page__title" itemprop="headline">
+            {% if page.pub.doi %}<a href="http://dx.doi.org/{{ page.pub.doi }}">
+            {% elsif page.pub.arXiv %}<a href="http://arxiv.org/abs/{{ page.pub.arXiv }}">
+            {% endif %}
+            {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+            {% if page.pub.doi or page.pub.arXiv %}</a>
+            {% endif %}
+          </h1>{% endif %}
+          {% if page.pub.authors %}
+          <h2 id="authors">
+            {{ page.pub.authors }}
+          </h2>
+          {% endif %}
+          {% if page.pub.jref %}
+          <span id="jref">
+            {{ page.pub.jref }}
+          </span>
+          {% endif %}
+          {% if page.pub.arXiv %}
+          <span id="arXiv">
+            [<a href="http://arxiv.org/abs/{{ page.pub.arXiv }}">arXiv:{{ page.pub.arXiv }}</a>]
+          </span>
+          {% endif %}
+          {% if page.pub.doi %}
+          <span id="doi">
+            [<a href="http://dx.doi.org/{{ page.pub.doi }}">doi:{{ page.pub.doi }}</a>]
+          </span>
+          {% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
