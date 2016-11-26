@@ -6,15 +6,17 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Tom Test"
+locale                   : "en-US"
+title                    : "UNDER CONSTRUCTION"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : "https://tomkimpson.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Tom Kimpson"
+description              : "Newbie studying gravity and general relativity."
+#url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : "https://tomkimpson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : "https://tomkimpson.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -30,12 +32,12 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}"
+  path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -70,18 +72,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-64041100-1"
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Tom Kimpson 13"
+  avatar           : "bio-pic.jpg"
+  bio              : "PhD student in Theoretical Astro @ MSSL, UCL. General relativity & spinning BH-NS systems."
+  location         : "MSSL, Surrey"
+  email            : "tom.kimpson.16@ucl.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "tomkimpson"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "KimpsonTom"
   vine             :
   weibo            :
   xing             :
@@ -121,7 +123,6 @@ exclude:
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
-  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
@@ -134,9 +135,10 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - tohost.sh
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - page-archive.html
+  - collection-archive.html
 keep_files:
   - .git
   - .svn
@@ -210,6 +212,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+year_archive:
+  type: liquid
+  path: /posts/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -230,6 +235,20 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+# collections:
+#   docs:
+#     output: true
+#     permalink: /:collection/:path/
+#   recipes:
+#     output: true
+#     permalink: /:collection/:path/
+#   pets:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -240,7 +259,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: false
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
