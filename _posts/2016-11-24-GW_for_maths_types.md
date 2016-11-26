@@ -1,5 +1,5 @@
 ---
-title: "Gravitational Waves for maths-y types"
+title: "Gravitational Waves for Maths People"
 modified:
 categories: [GR]
 excerpt: "GW - Warning maths ahead!"

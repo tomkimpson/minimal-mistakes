@@ -8,9 +8,6 @@ header:
   overlay_filter: 0.3
 ---
 
-![]({{ site.url }}/images/belvedere.png)
-{: .align-right}
-
 I am currently a Ph.D. candidate in Physics at [MSSL, UCL](http://www.ucl.ac.uk/mssl) undertaking research in the [Astrophysics group](http://www.ucl.ac.uk/mssl/astro). <br> <br>
 My Ph.D. research concerns the complex dynamics exhibited by black-hole - neutron star systems in strong gravity. Such spinning objects would not follow geodesics in the space-time manifold and exhibit interesting and complex spin and dynamical behaviours due to general relativistic effects.<br> <br>
 I received my Master's in Physics and Astronomy from Durham University in 2016. My thesis research was in the area of gamma ray bursts in the [Very High Energy Astro department](https://www.dur.ac.uk/cfai/vhegammaraygroup/), investigating the detectability of GRB's by the upcoming [CTA](https://portal.cta-observatory.org/Pages/Home.aspx), in addition to the radiation mechanisms present.<br> <br>
