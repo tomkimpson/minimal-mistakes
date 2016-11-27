@@ -14,7 +14,7 @@ pinned: true
 With the detection of the first test gravitational waves by LIGO just over one year ago, there have been a plethora of great articles explaining gravitational waves to the layman. These are all excellent resources, but someone with a more maths-based background might find them lacking: questions such as **"Why does a spinning star not emit gravitational waves?"**, **"Why is the amplitude of gravitational waves so small"** or **"do gravitational waves carry energy"** can only be properly explained with reference to the mathematics associated with the physics. Hopefully this post will help those with a stronger maths background gain a deeper understanding of one of the greatest empirical detections.
 
 ** Linearized theory**
-At small scales we can consider space to be flat and described by the Minkowski metric $$\nu_{ab}$$. For our paedological purposes, it will be sufficient to consider the linearized theory of gravitational waves, and introduced a small perturbation $$h_{ab}$$ to the flat space, such that the total metric is,
+At small scales we can consider space to be flat (WHY?) and described by the Minkowski metric $$\nu_{ab}$$. For our paedological purposes, it will be sufficient to consider the linearized theory of gravitational waves, and introduced a small perturbation $$h_{ab}$$ to the flat space, such that the total metric is,
 
 $$ g_{ab}=\nu_{ab}+h_{ab}$$
 
