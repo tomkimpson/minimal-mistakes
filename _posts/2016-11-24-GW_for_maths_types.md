@@ -11,8 +11,11 @@ pinned: true
 ---
 
 #Contents
+
 1. [Intro](#intro)
+
 2. [Primer](#primer)
+
 3. [Linearized Theory](#lin)
 
 
@@ -26,9 +29,18 @@ This post deals with metrics and tensors. A metric describes how a space is curv
 
 $$ ds^2 = \eta_{ab} dx^a dx^b$$  
 
-If we consider just two dimensions such that,
+If we consider just two dimensions $$ x,y $$ then the flat metric can be written,
 
-$$ \eta_{ab} = \begin{pmatrix}a & b\\c & d\end{pmatrix}$$
+$$ \eta_{ab} = \begin{pmatrix}1 & 0\\0 & 1\end{pmatrix}$$
+
+The only non-zero terms are $\eta_{11}$ and $\eta_{22}$. Therefore we can write a distance interval in Cartsesian coordinates, in flat space 2D space as,
+
+$$ ds^2 = \eta_{11} dx^1 dx^1 + \eta_{22} dx^2 dx^2 $$
+$$ = x^2 +y^2$$
+
+which is simply Pythagoras' theorem!
+
+So bottom line: **tensor=matrix** and **metric=curvature**.
 
 ## Linearized Theory <a name="lin"></a>
 At small scales we can consider space to be flat and described by the Minkowski metric $$\eta_{ab}$$. For our paedological purposes, it will be sufficient to consider the linearized theory of gravitational waves, and introduced a small perturbation $$h_{ab}$$ to the flat space, such that the total metric is,
