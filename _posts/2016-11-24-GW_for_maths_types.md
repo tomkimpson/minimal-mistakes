@@ -10,14 +10,15 @@ date: 2016-11-24
 pinned: true
 ---
 
-#Contents
-
 1. [Intro](#intro)
 
 2. [Primer](#primer)
 
 3. [Linearized Theory](#lin)
 
+4. [Multipoles](#multipole)
+
+5. [Amplitude](#amp)
 
 ## Introduction <a name="intro"></a>
 With the [detection of the first gravitational waves by LIGO](https://www.nasa.gov/feature/goddard/2016/nsf-s-ligo-has-detected-gravitational-waves) just over one year ago, there have been a plethora of great articles (e.g. [this one](http://www.popsci.com/whats-so-important-about-gravitational-waves)) explaining gravitational waves to the general public. This is all excellent and important outreach, but someone with a more maths/science based background might find these articles lacking. <br> <br>
@@ -33,14 +34,14 @@ If we consider just two dimensions $$ x,y $$ then the flat metric can be written
 
 $$ \eta_{ab} = \begin{pmatrix}1 & 0\\0 & 1\end{pmatrix}$$
 
-The only non-zero terms are $\eta_{11}$ and $\eta_{22}$. Therefore we can write a distance interval in Cartsesian coordinates, in flat space 2D space as,
+The only non-zero terms are $$\eta_{11}$$ and $$\eta_{22}$$. Therefore we can write a distance interval in Cartsesian coordinates, in flat space 2D space as,
 
 $$ ds^2 = \eta_{11} dx^1 dx^1 + \eta_{22} dx^2 dx^2 $$
 $$ = x^2 +y^2$$
 
 which is simply Pythagoras' theorem!
 
-So bottom line: **tensor=matrix** and **metric=curvature**.
+So bottom line: **tensor=matrix** and **metric=curvature**. Also, in GR we don't work just in two spatial dimensions, but in 4 dimensions - 3 spatial and 1 temporal - to form a general spacetime.
 
 ## Linearized Theory <a name="lin"></a>
 At small scales we can consider space to be flat and described by the Minkowski metric $$\eta_{ab}$$. For our paedological purposes, it will be sufficient to consider the linearized theory of gravitational waves, and introduced a small perturbation $$h_{ab}$$ to the flat space, such that the total metric is,
@@ -71,7 +72,7 @@ $$ \ddot{Q}^{\mu\nu} = \int d^3x \rho(x^{\mu} x^{\nu} - \frac{1}{3}\delta^{\mu\n
 is the \textit{reduced quadrupole moment}. Let's take a moment to think about what this is, and why it makes sense that GW are related to this moment.
 
 
-### Multipoles
+## Multipoles <a name="multipole"></a>
 We can expand a radiation field in terms of multipole moments. Let the mass-energy density be $$ \rho(\mathbf{r})$$. We can then expand in terms of multipole moments as:
 
 * **Monopole** $$ \int \rho(\mathbf{r}) d^3r$$.
@@ -90,6 +91,8 @@ $$ Q = I_{jk} - \frac{1}{3} \delta_{jk} trace(I_{ab}) = \int \rho (x_j x_k - \fr
 
 Alternatively we can think of it in terms of explicit spherical harmonics...
 
-### Amplitude estimate
+## Amplitude <a name="amp"></a>
+
+
 ### References
 Misner, Thorne, Wheeler  - Gravitation
