@@ -22,7 +22,7 @@ $$ ds^2 = \eta_{ab} dx^a dx^b$$
 
 If we consider just two dimensions such that,
 
-$$ \eta_{ab} = \begin{bmatrix}a & b\\c & d\end{bmatrix}$$
+$$ \eta_{ab} = \begin{matrix}a & b\\c & d\end{matrix}$$
 **Linearized theory**
 At small scales we can consider space to be flat and described by the Minkowski metric $$\eta_{ab}$$. For our paedological purposes, it will be sufficient to consider the linearized theory of gravitational waves, and introduced a small perturbation $$h_{ab}$$ to the flat space, such that the total metric is,
 
