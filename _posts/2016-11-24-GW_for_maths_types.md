@@ -21,12 +21,12 @@ pinned: true
 5. [Amplitude](#amp)
 
 ## Introduction <a name="intro"></a>
-With the [detection of the first gravitational waves by LIGO](https://www.nasa.gov/feature/goddard/2016/nsf-s-ligo-has-detected-gravitational-waves) just over one year ago, there have been a plethora of great articles (e.g. [this one](http://www.popsci.com/whats-so-important-about-gravitational-waves)) explaining gravitational waves to the general public. This is all excellent and important outreach, but someone with a more maths/science based background might find these articles lacking. <br> <br>
+With the [detection of the first gravitational waves by LIGO](https://www.nasa.gov/feature/goddard/2016/nsf-s-ligo-has-detected-gravitational-waves) just over one year ago, there have been a plethora of great articles (e.g. [this one](http://www.popsci.com/whats-so-important-about-gravitational-waves)) explaining gravitational waves to the general public. This is all excellent and important outreach, but someone with a more maths/science based background might find these articles lacking.
 
 **"Why does a spinning star not emit gravitational waves?"**, **"Why is the amplitude of gravitational waves so small?"**, **"Do gravitational waves carry energy?"** These are all interesting questions that can only be properly explained with reference to the underlying mathematics and the physics. Hopefully this post will help those with a stronger maths background gain a deeper understanding of one of the greatest empirical detections of this millennium.
 
 ## Quick Primer <a name="primer"></a>
-This post deals with metrics and tensors. A metric describes how a space is curved. For a flat space, we have the Minkowski metric, which is given by the tensor $$\eta_{ab}$$. For this post, just think of a tensor as a matrix. With this notation, we can write an interval as,
+We are going to be dealing with metrics and tensors. A metric describes how a space is curved. For a flat space, we have the Minkowski metric, which is given by the tensor $$\eta_{ab}$$. For this post, just think of a tensor as a matrix. With this notation, we can write a distance between two points in a space as,
 
 $$ ds^2 = \eta_{ab} dx^a dx^b$$  
 
@@ -39,7 +39,7 @@ The only non-zero terms are $$\eta_{11}$$ and $$\eta_{22}$$. Therefore we can wr
 $$ ds^2 = \eta_{11} dx^1 dx^1 + \eta_{22} dx^2 dx^2 $$
 $$ = x^2 +y^2$$
 
-which is simply Pythagoras' theorem!
+which is simply Pythagoras' theorem! Were we on a curved surface, e.g. the surface of a sphere, then Pythagoeas' theorem does not apply and we would use a different metric to describe the curvature. But the general expression $$ ds^2 = \eta_{ab} dx^a dx^b$$ works for all curvatures.
 
 So bottom line: **tensor=matrix** and **metric=curvature**. Also, in GR we don't work just in two spatial dimensions, but in 4 dimensions - 3 spatial and 1 temporal - to form a general spacetime.
 
