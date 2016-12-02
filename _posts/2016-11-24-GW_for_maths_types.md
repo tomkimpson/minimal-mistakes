@@ -10,20 +10,27 @@ date: 2016-11-24
 pinned: true
 ---
 
+#Contents
+1. [Intro](#intro)
+2. [Primer](#primer)
+3. [Linearized Theory](#lin)
 
+
+## Introduction <a name="intro"></a>
 With the [detection of the first gravitational waves by LIGO](https://www.nasa.gov/feature/goddard/2016/nsf-s-ligo-has-detected-gravitational-waves) just over one year ago, there have been a plethora of great articles (e.g. [this one](http://www.popsci.com/whats-so-important-about-gravitational-waves)) explaining gravitational waves to the general public. This is all excellent and important outreach, but someone with a more maths/science based background might find these articles lacking. <br> <br>
 
 **"Why does a spinning star not emit gravitational waves?"**, **"Why is the amplitude of gravitational waves so small?"**, **"Do gravitational waves carry energy?"** These are all interesting questions that can only be properly explained with reference to the underlying mathematics and the physics. Hopefully this post will help those with a stronger maths background gain a deeper understanding of one of the greatest empirical detections of this millennium.
 
-**Quick primer**
+## Quick Primer <a name="primer"></a>
 This post deals with metrics and tensors. A metric describes how a space is curved. For a flat space, we have the Minkowski metric, which is given by the tensor $$\eta_{ab}$$. For this post, just think of a tensor as a matrix. With this notation, we can write an interval as,
 
 $$ ds^2 = \eta_{ab} dx^a dx^b$$  
 
 If we consider just two dimensions such that,
 
-$$ \eta_{ab} = \begin{matrix}a & b\\c & d\end{matrix}$$
-**Linearized theory**
+$$ \eta_{ab} = \begin{pmatrix}a & b\\c & d\end{pmatrix}$$
+
+## Linearized Theory <a name="lin"></a>
 At small scales we can consider space to be flat and described by the Minkowski metric $$\eta_{ab}$$. For our paedological purposes, it will be sufficient to consider the linearized theory of gravitational waves, and introduced a small perturbation $$h_{ab}$$ to the flat space, such that the total metric is,
 
 $$ g_{ab}=\eta_{ab}+h_{ab}$$
