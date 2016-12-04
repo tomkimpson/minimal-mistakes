@@ -1,14 +1,12 @@
 ---
-layout: post
 title: "Running in parallel"
 modified:
-categories:
+categories: [HowTo] 
 excerpt: "Usage of GNU parallel for running processes in parallel"
 tags: []
 image:
 feature:
-date: 2016-01-02T18:29:39-07:00
-
+date: 2016-01-02
 ---
 
 [GNU parallel](http://www.gnu.org/software/parallel/) is a handy tool for easily executing jobs in parallel across any number of cores. <br> <br>

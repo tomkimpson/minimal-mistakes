@@ -1,14 +1,12 @@
 ---
-layout: post
-title: "Data Science with Anaconda"
+title: "Python with Anaconda"
 modified:
-categories: 
-excerpt: "How to use Anaconda"
+categories: [HowTo] 
+excerpt: "Installation and use of Anaconda"
 tags: []
 image:
 feature:
-date: 2016-06-11T18:29:39-07:00
-
+date: 2016-06-11
 ---
 
 Anaconda is a sweet ~~little~~ massive platform for doing any sort of data science with Python. The two main advantages it has are being able to easily switch between environments e.g. Python 2.7 to Python 3.0 to BioPython etc. and also the ease at which other packages and libraries can be installed.

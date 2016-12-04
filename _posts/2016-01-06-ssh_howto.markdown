@@ -1,14 +1,12 @@
 ---
-layout: post
 title: "How to SSH"
 modified:
-categories: 
+categories: [HowTo] 
 excerpt: "Notes on remote server access"
 tags: []
 image:
 feature:
-date: 2016-01-06T18:29:39-07:00
-
+date: 2016-01-06
 ---
 
 Remote access of a machine via ssh is simply done as follows
