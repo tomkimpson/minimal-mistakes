@@ -60,7 +60,7 @@ Note that the linearized theory is only an approximation - in using it we consid
 
 We can rearrange this equation to obtain,
 
-$$ h^{\mu \nu} = -\frac{\kappa}{4 \pi} \int d^3 x \frac{T^{\mu\nu}(t-|\vec{x}-\vec{x}'|, \vec{x}')}{\vec{x}-\vec{x}'|}$$
+$$ h^{\mu \nu} = -\frac{\kappa}{4 \pi} \int d^3 x \frac{T^{\mu\nu}(t-|\vec{x}-\vec{x}'|, \vec{x}')}{|\vec{x}-\vec{x}'|}$$
 
 But then all this says is that $$ h^{\mu \nu}$$ is proportional to the second time derivative of the reduced quadrupole moment, or,
 
@@ -69,7 +69,7 @@ $$ h^{\mu \nu} \propto \ddot{Q}^{\mu \nu}$$
 where,
 
 $$ \ddot{Q}^{\mu\nu} = \int d^3x \rho(x^{\mu} x^{\nu} - \frac{1}{3}\delta^{\mu\nu}r^2)$$
-is the \textit{reduced quadrupole moment}. Let's take a moment to think about what this is, and why it makes sense that GW are related to this moment.
+is the *reduced quadrupole moment*. Let's take a moment to think about what this is, and why it makes sense that GW are related to this moment.
 
 
 ## Multipoles <a name="multipole"></a>
@@ -89,10 +89,17 @@ To simplify the formulas, in the literature the reduced quadrupole moment is oft
 
 $$ Q = I_{jk} - \frac{1}{3} \delta_{jk} trace(I_{ab}) = \int \rho (x_j x_k - \frac{1}{3} \delta_{jk} r^2) d^3 x$$
 
-Alternatively we can think of it in terms of explicit spherical harmonics...
-
 ## Amplitude <a name="amp"></a>
+The amplitude of the metric perturbation is described by $$ h^{\mu\nu}$$. Solving the previous integral for $$ h^{\mu\nu}$$, it [can be shown](https://www.ego-gw.it/public/events/vesf/2010/Presentations/Quadrupole-Ferrari.pdf) that
 
+$$ \h^{\mu \nu} \approx \frac{G}{c^4 r} \ddot{Q}^{\mu\nu}$$
 
-### References
-Misner, Thorne, Wheeler  - Gravitation
+From our expression from the quadrupole, we can see that the dimensions of the quadrupole are $$ MR^2$$ and so,
+
+$$ \h^{\mu \nu} \approx \frac{G}{c^4 r} \frac{\partial MR^2}{\partial t}$$
+
+That prefactor of $$G/c^4 $$ is tiny $$\approx 10^{-43}$$. This is the reason why the direct detection of gravitational waves is so tricky; their amplitude is tiny for all but those systems with the largest values of $$M$$ and $$R$$ that change rapidly. For typical values of inspiralling binary systems the amplitude is of the order $$ 10^-22$$.
+
+How small is this? Take a long baseline like the distance between the Earth and the Sun $$ \approx 10^{11}$$m. Over this baseline the perturbation will be of the order $$ \approx 10^{-11}$$m, which is about the same size as an atomice nucleus. See [this very cool visualization](http://scaleofuniverse.com/) for some sense of scale.
+
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
