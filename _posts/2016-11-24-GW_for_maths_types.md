@@ -92,14 +92,14 @@ $$ Q = I_{jk} - \frac{1}{3} \delta_{jk} trace(I_{ab}) = \int \rho (x_j x_k - \fr
 ## Amplitude <a name="amp"></a>
 The amplitude of the metric perturbation is described by $$ h^{\mu\nu}$$. Solving the previous integral for $$ h^{\mu\nu}$$, it [can be shown](https://www.ego-gw.it/public/events/vesf/2010/Presentations/Quadrupole-Ferrari.pdf) that
 
-$$ \h^{\mu \nu} \approx \frac{G}{c^4 r} \ddot{Q}^{\mu\nu}$$
+$$ h^{\mu \nu} \approx \frac{G}{c^4 r} \ddot{Q}^{\mu\nu}$$
 
 From our expression from the quadrupole, we can see that the dimensions of the quadrupole are $$ MR^2$$ and so,
 
-$$ \h^{\mu \nu} \approx \frac{G}{c^4 r} \frac{\partial MR^2}{\partial t}$$
+$$ h^{\mu \nu} \approx \frac{G}{c^4 r} \frac{\partial MR^2}{\partial t}$$
 
 That prefactor of $$G/c^4 $$ is tiny $$\approx 10^{-43}$$. This is the reason why the direct detection of gravitational waves is so tricky; their amplitude is tiny for all but those systems with the largest values of $$M$$ and $$R$$ that change rapidly. For typical values of inspiralling binary systems the amplitude is of the order $$ 10^-22$$.
 
 How small is this? Take a long baseline like the distance between the Earth and the Sun $$ \approx 10^{11}$$m. Over this baseline the perturbation will be of the order $$ \approx 10^{-11}$$m, which is about the same size as an atomice nucleus. See [this very cool visualization](http://scaleofuniverse.com/) for some sense of scale.
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![eLISA]({{ site.url }}/images/elisa.png)](https://www.youtube.com/watch?v=8tZOX7bBkvE)
