@@ -13,7 +13,7 @@ I have had my current MacBook pro since mid-2012. It has a 2.5 GHz i5 processor 
 
 I was craving a new machine, but the 2016 MacBook Pro prices are astronomically and prohibitively high for a poor grad student.
 
-<iframe src="//giphy.com/embed/CTkWFZ1IDvsfS" width="480" height="653" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/apple-steve-jobs-CTkWFZ1IDvsfS">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/CTkWFZ1IDvsfS" width="240" height="375" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/apple-steve-jobs-CTkWFZ1IDvsfS">via GIPHY</a></p>
 
 Instead I decided to attempt to upgrade the RAM and hard drive on my existing machine. I was expecting it to be difficult and thought it would make a good blog post, but it was so easy and the online tutorials so simple to follow, I'll do nothing more here than point you in the right direction.
 
