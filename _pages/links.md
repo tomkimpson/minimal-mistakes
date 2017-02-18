@@ -7,7 +7,15 @@ excerpt:
 tags: []
 ---
 
-Some useful stuff - external links and some short "How-to"s from here.  
+Some useful stuff - external links.
+
+### General relativity
+
+* [Sean Carrol's GR notes](https://arxiv.org/abs/gr-qc/9712019)
+
+### Statistics
+
+* [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions)
 
 ### Software
 
@@ -31,8 +39,3 @@ Some useful stuff - external links and some short "How-to"s from here.
 * [Philip Guo's, pgbovine.net](http://www.pgbovine.net/index.html)
 
 * [Jake Vanderplas', Pythonic Perambulations](https://jakevdp.github.io)
-
-
-### Data Science and ML
-
-* [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions
