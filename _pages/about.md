@@ -1,14 +1,13 @@
 ---
-title: About
-tags:
+title: "About"
+date: 2011-07-17
 permalink: /about/
 modified: 2015-08-30
-header:
-  overlay_image: apple-eye.png
-  overlay_filter: 0.3
+excerpt:
+tags:
 ---
 
-I am currently a Ph.D. candidate in Physics at [MSSL, UCL](http://www.ucl.ac.uk/mssl) undertaking research in the [Astrophysics group](http://www.ucl.ac.uk/mssl/astro) with (Kinwah Wu)[https://iris.ucl.ac.uk/iris/browse/profile?upi=KWUXX50]. I graduated from Durham in 2016 with an MPhys in Physics and Astronomy, having worked in the [Very High Energy Astrophysics group](https://www.dur.ac.uk/cfai/vhegammaraygroup/). I have also have also worked with the [ForDyS Group](http://web.pd.astro.it/mapelli/group.html) of INAF, Padova, where I collaborated on the merger of compact object binaries and triples using N-Body simulations and worked for start-up [PRIX](http://www.prix.ai) using machine learning methods for dynamic pricing and revenue management.<br> <br>
+I am currently a Ph.D. candidate in Physics at [MSSL, UCL](http://www.ucl.ac.uk/mssl) undertaking research in the [Astrophysics group](http://www.ucl.ac.uk/mssl/astro) with [Kinwah Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=KWUXX50). I graduated from Durham in 2016 with an MPhys in Physics and Astronomy, having worked in the [Very High Energy Astrophysics group](https://www.dur.ac.uk/cfai/vhegammaraygroup/). I have also have also worked with the [ForDyS Group](http://web.pd.astro.it/mapelli/group.html) of INAF, Padova, where I collaborated on the merger of compact object binaries and triples using N-Body simulations and worked for start-up [PRIX](http://www.prix.ai) using machine learning methods for dynamic pricing and revenue management.<br> <br>
 
 My Ph.D. research concerns the dynamics and radiation of  Pulsar-Black Hole, and how we can use these systems to further understand gravity in the strong-field regime. For more info see the [Research Page](http://tomkimpson.com/research/) <br> <br>
 
