@@ -57,6 +57,14 @@ i.e. **some very small quantity**.
 
 With this cross section we are now in a position to determine how likely we are to detect a graviton in different physical situations. We take our detector mass $$ M_d$$ detector to be equal to that of Jupiter, $$ \sim 10^{27}$$ kg, and composed entirely of atomic hydrogen.
 
+
+
+
+<figure>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/800px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg' alt='Jupiter' align="right" style="width:304px;height:228px;" />
+    <figcaption>third Caption goes here</figcaption>
+</figure>
+
 ### Graviton luminosity
 
 There are few feasible sources of gravitons. We consider each mechanism and the likelihood of graviton detection via this mechanism (see pg 11 onwards.),
