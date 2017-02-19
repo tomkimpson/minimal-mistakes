@@ -12,7 +12,7 @@ pinned: false
 
 > **tl;dr** An ideal detector the mass of Jupiter in a close orbit around a strong source of gravitons like a neutron star would result in only 1 detection every 100 years. This makes gravitons effectively undetectable, but their existence maybe be able to be inferred from CMB measurements.
 
-<img src="http://tomkimpson.com/images/quantum-spacetime2.jpg" align="right">
+<img src="http://tomkimpson.com/images/quantum-spacetime2.png" align="right">
 
 In the expected quantum theory of gravity, the gravitational force will be quantized into particles called gravitons. In the same way that a photon mediates the electromagnetic force, so will a graviton mediate the gravitational force. I recently came across a paper, [Rothman, T. and Boughn, S. 2006](https://arxiv.org/pdf/gr-qc/0601043v3.pdf), which is now over a decade old, discussing the feasibility of graviton detection. It was produced in response to a comment made by Freeman Dyson questioning whether it would ever be possible to actually detect a graviton. Below is summarized the trail of thought and conclusions from what is an interesting, yet perhaps ultimately depressing paper.
 
