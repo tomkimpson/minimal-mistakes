@@ -13,6 +13,6 @@ My Ph.D. research concerns the dynamics and radiation of  Pulsar-Black Hole, and
 
 This blog serves as a platform for scientific outreach posts, primarily relating to general relativity - our current leading theory of gravity. Some posts are more technical and aimed at those with a more mathematical background, while others should be more widely understandable. These posts are also personally helpful in developing my own writing style and exposing any of my own misunderstandings.
 
-> Writers write badly when they have something to hide. Clarity makes their shaky assumptions plain to the readers - and to themselves.      -Nick hCohen, 2007
+> Writers write badly when they have something to hide. Clarity makes their shaky assumptions plain to the readers - and to themselves. <br> Nick hsCohen, 2007
 
 There are also some short technical computing notes that may be useful as a reference to myself or others.
