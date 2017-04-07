@@ -13,6 +13,10 @@ Some useful stuff - external links.
 
 * [Sean Carrol's GR notes](https://arxiv.org/abs/gr-qc/9712019)
 
+* [Christoper Pope's GR Notes](http://tomkimpson.com/pdfs/Pope_gravphysics.pdf)
+
+* [Christopher Popes Geometry + Group Theory Notes](http://tomkimpson.com/pdfs/pope_grouptheory.pdf)
+
 ### Statistics
 
 * [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions)
