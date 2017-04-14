@@ -17,6 +17,9 @@ Some useful stuff - external links.
 
 * [Christopher Popes Geometry + Group Theory Notes](http://tomkimpson.com/pdfs/pope_grouptheory.pdf)
 
+* [Alexander Hamilton's GR Notes](http://tomkimpson.com/pdfs/Hamilton_GR.pdf)
+(long and thorough)
+
 ### Statistics
 
 * [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions)
