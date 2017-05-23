@@ -35,6 +35,11 @@ Some useful stuff - external links.
 * [MatLab to Python](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf)
 
 
+### Travel
+
+*[Mac spoofing for time-limited Wi-Fi](https://github.com/halo/LinkLiar)
+
+
 ### Great Blogs
 
 * [Scott Aaronson's, Shtetl-Optimized](http://www.scottaaronson.com/blog/?m=201606)
