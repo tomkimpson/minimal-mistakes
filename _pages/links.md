@@ -39,6 +39,8 @@ Some useful stuff - external links.
 
 *[Mac spoofing for time-limited Wi-Fi](https://github.com/halo/LinkLiar)
 
+*[Revolut](https://revolut.com/)
+
 
 ### Great Blogs
 
