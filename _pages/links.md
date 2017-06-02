@@ -53,3 +53,10 @@ Some useful stuff - external links.
 * [Philip Guo's, pgbovine.net](http://www.pgbovine.net/index.html)
 
 * [Jake Vanderplas', Pythonic Perambulations](https://jakevdp.github.io)
+
+
+### Essays
+
+* [The Value of Science - Feynman](http://www.wegerscience.com/documents/thevalueofscience_article.pdf)
+
+* [Science is not the Enemy of the Humanities](https://newrepublic.com/article/114127/science-not-enemy-humanities)
