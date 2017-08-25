@@ -14,7 +14,7 @@ pinned: false
 
 
 ## Problems of current black hole theory
-<img src="https://s-media-cache-ak0.pinimg.com/736x/d6/c6/98/d6c69849cd3cd97bbf59241c77b81f08--quantum-foam-space-time.jpg" align="right">
+<img src="https://s-media-cache-ak0.pinimg.com/736x/d6/c6/98/d6c69849cd3cd97bbf59241c77b81f08--quantum-foam-space-time.jpg" align="middle">
 
 In the standard theory of black hole formation, a massive star (greater than ~ 30 solar masses) collapses to a point or [singularity](https://en.wikipedia.org/wiki/Gravitational_singularity). At this point the equations of general relativity become singular, nothing really works, and everything goes to infinity. At a certain radius outside this singular point is the **event horizon** - the region within which  the escape velocity is greater than the speed of light, and is given for a non-spinning ([Schwarzchild](https://en.wikipedia.org/wiki/Schwarzschild_metric)) black hole of mass $$M$$ by,
 
@@ -31,7 +31,7 @@ $$l_p =\sqrt{\frac{\hbar G}{c^3}} \approx 10^{-35} \text{m}$$
 
 Now, over time black holes evaporate due to [Hawking radiation](https://en.wikipedia.org/wiki/Hawking_radiation) and their radius $$r_s$$ (i.e. the event horizon) shrinks. The restriction of unitarity in QM means that information must be conserved in a system, whilst the [No Hair Theorem](https://en.wikipedia.org/wiki/No-hair_theorem) implies that information must remain trapped inside the black hole. Consequently, at the end of the evaporation, when the radius is very small, the black hole would have to store a large quantity of information that is incompatible with the expected Planckian lengthscale.
 
-![QM](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjQ8ubVjPLVAhWHJVAKHYXOA_8QjBwIBA&url=https%3A%2F%2Fcdn1.img.sputniknews.com%2Fimages%2F102341%2F10%2F1023411037.jpg&psig=AFQjCNGh_zmZdiaEzdcl3CtIry3Uk1d22g&ust=1503739740063011)
+![QM](https://cdn1.img.sputniknews.com/images/102341/10/1023411037.jpg
 
 ## The Solution: Planck Stars?
 
