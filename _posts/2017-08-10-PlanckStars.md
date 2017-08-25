@@ -31,7 +31,7 @@ $$l_p =\sqrt{\frac{\hbar G}{c^3}} \approx 10^{-35} \text{m}$$
 
 Now, over time black holes evaporate due to [Hawking radiation](https://en.wikipedia.org/wiki/Hawking_radiation) and their radius $$r_s$$ (i.e. the event horizon) shrinks. The restriction of unitarity in QM means that information must be conserved in a system, whilst the [No Hair Theorem](https://en.wikipedia.org/wiki/No-hair_theorem) implies that information must remain trapped inside the black hole. Consequently, at the end of the evaporation, when the radius is very small, the black hole would have to store a large quantity of information that is incompatible with the expected Planckian lengthscale.
 
-![QM](https://cdn1.img.sputniknews.com/images/102341/10/1023411037.jpg
+![QM](https://cdn1.img.sputniknews.com/images/102341/10/1023411037.jpg)
 
 ## The Solution: Planck Stars?
 
