@@ -14,8 +14,6 @@ pinned: false
 
 
 ## Problems of current black hole theory
-<img src="https://s-media-cache-ak0.pinimg.com/736x/d6/c6/98/d6c69849cd3cd97bbf59241c77b81f08--quantum-foam-space-time.jpg" align="middle">
-
 In the standard theory of black hole formation, a massive star (greater than ~ 30 solar masses) collapses to a point or [singularity](https://en.wikipedia.org/wiki/Gravitational_singularity). At this point the equations of general relativity become singular, nothing really works, and everything goes to infinity. At a certain radius outside this singular point is the **event horizon** - the region within which  the escape velocity is greater than the speed of light, and is given for a non-spinning ([Schwarzchild](https://en.wikipedia.org/wiki/Schwarzschild_metric)) black hole of mass $$M$$ by,
 
 $$r_s = 2M$$
