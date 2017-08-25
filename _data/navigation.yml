@@ -15,6 +15,6 @@ main:
 - title: Links
   url: /links/
 
-- title: CV
-  url: /CV.pdf
-  alt: Curriculum Vitae
+#- title: CV
+#url: /CV.pdf
+#alt: Curriculum Vitae
