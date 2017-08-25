@@ -14,8 +14,9 @@ pinned: false
 
 
 ## Problems of current black hole theory
+<img src="https://s-media-cache-ak0.pinimg.com/736x/d6/c6/98/d6c69849cd3cd97bbf59241c77b81f08--quantum-foam-space-time.jpg" align="right">
 
-In the standard theory of black hole formation, a massive star (greater than ~ 30 solar masses) collapses to a point or singularity. At this point the equations of general relativity become singular, nothing really works, and everything goes to infinity. At a certain radius outside this singular point is the event horizon - the region within which  the escape velocity is greater than the speed of light, and is given for a non-spinning ([Schwarzchild](https://en.wikipedia.org/wiki/Schwarzschild_metric)) black hole of mass $$M$$ by,
+In the standard theory of black hole formation, a massive star (greater than ~ 30 solar masses) collapses to a point or [singularity](https://en.wikipedia.org/wiki/Gravitational_singularity). At this point the equations of general relativity become singular, nothing really works, and everything goes to infinity. At a certain radius outside this singular point is the **event horizon** - the region within which  the escape velocity is greater than the speed of light, and is given for a non-spinning ([Schwarzchild](https://en.wikipedia.org/wiki/Schwarzschild_metric)) black hole of mass $$M$$ by,
 
 $$r_s = 2M$$
 
@@ -30,8 +31,8 @@ $$l_p =\sqrt{\frac{\hbar G}{c^3}} \approx 10^{-35} \text{m}$$
 
 Now, over time black holes evaporate due to [Hawking radiation](https://en.wikipedia.org/wiki/Hawking_radiation) and their radius $$r_s$$ (i.e. the event horizon) shrinks. The restriction of unitarity in QM means that information must be conserved in a system, whilst the [No Hair Theorem](https://en.wikipedia.org/wiki/No-hair_theorem) implies that information must remain trapped inside the black hole. Consequently, at the end of the evaporation, when the radius is very small, the black hole would have to store a large quantity of information that is incompatible with the expected Planckian lengthscale.
 
+![QM](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjQ8ubVjPLVAhWHJVAKHYXOA_8QjBwIBA&url=https%3A%2F%2Fcdn1.img.sputniknews.com%2Fimages%2F102341%2F10%2F1023411037.jpg&psig=AFQjCNGh_zmZdiaEzdcl3CtIry3Uk1d22g&ust=1503739740063011)
 
-![BH](https://s-media-cache-ak0.pinimg.com/736x/d6/c6/98/d6c69849cd3cd97bbf59241c77b81f08--quantum-foam-space-time.jpg)
 ## The Solution: Planck Stars?
 
 
@@ -54,3 +55,5 @@ The collapse then does not result in a singularity but instead a quantum gravita
 The question then becomes: *can a Planck Star could exist for the typical lifetime of a black hole?*. The answer proposed by Rovelli & Vidotto is very cool; as measured by an observer riding the collapse, the lifetime (proper time) is very short - essentially a bounce. However, to some distant observer the lifetime is very long owing to the **extreme gravitational time dilation**. That is, a distant observer sees the expansion of the Planck Star after the bounce in such slow motion that it appears stationary (of course, the observer doesn't actually 'see' anything at all as the Planck Star is hidden behind the event horizon).
 
 Therefore we have two radii: the event horizon radius which is shrinking due to Hawking radiation and the Plank star radius which after the initial collapse bounces back and begins to grow. Once the event horizon becomes less than the Planck horizon then the information that fell beneath the event horizon is then available to the universe and the unitarity of QM is preserved.
+
+![BH](https://assets.fastcompany.com/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/06/p-1-super-massive-black-holes-crashing.jpg)
