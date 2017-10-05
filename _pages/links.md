@@ -60,3 +60,8 @@ Some useful stuff - external links.
 * [The Value of Science - Feynman](http://www.wegerscience.com/documents/thevalueofscience_article.pdf)
 
 * [Science is not the Enemy of the Humanities](https://newrepublic.com/article/114127/science-not-enemy-humanities)
+
+
+### Latex
+
+* [BibTex Style](https://www.reed.edu/cis/help/LaTeX/bibtexstyles.html#natcit)
