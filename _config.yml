@@ -43,7 +43,7 @@ titlecase: true
 owner:
   name: Tom Kimpson
   avatar: bio-pic.jpg
-  bio: "then a different student, UCL. General relativity, compact objects, GRBs and gravitational waves."
+  bio: "Contact me: "
   email: tomkimpson@gmail.com
   disqus-shortname:
   twitter: KimpsonTom
@@ -69,7 +69,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: photos/134709935@N06/
+  #flickr: photos/134709935@N06/
   codepen: #username
 
 include: [".htaccess"]
