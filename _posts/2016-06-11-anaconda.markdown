@@ -1,0 +1,37 @@
+---
+title: "Python with Anaconda"
+modified:
+categories: [HowTo] 
+excerpt: "Installation and use of Anaconda"
+tags: []
+image:
+feature:
+date: 2016-06-11
+---
+
+Anaconda is a sweet ~~little~~ massive platform for doing any sort of data science with Python. The two main advantages it has are being able to easily switch between environments e.g. Python 2.7 to Python 3.0 to BioPython etc. and also the ease at which other packages and libraries can be installed.
+
+[Installation](https://www.continuum.io/downloads) is v.easy as is [getting started](http://conda.pydata.org/docs/test-drive.html). The Anaconda (or 'Conda') [Cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf) details all the main commands. The basics are:
+
+    conda create --name py2.7 python=2.7
+
+This will create an environment called "py2.7" running Python 2.7. To activate this environment just go,
+
+    source activate py2.7
+
+whilst to exit the environment:
+
+    source deactivate
+
+A list of all the created environments can be listed by conda info --envs. An asterisk indicates the currently active environment.
+
+Anaconda also has just about every package you could ever want to install. So, for example to install the ML package scikit-learn:
+
+    conda install scikit-learn
+
+This will install scikit-learn in the current active environment. Any packages that aren't included with Conda can be added in using *pip*.
+
+
+
+    
+

@@ -1,4 +1,28 @@
 ---
-layout: home
+layout: archive
 author_profile: true
+title: Home
+header: 
+  overlay_image: apple-eye.png
+  overlay_filter: 0.3
 ---
+
+{% include base_path %}
+
+{% if paginator.page == 1 %}
+  {% assign pinned = site.posts | where:"pinned","true" %}
+  {% if pinned.size > 0 %}
+    <h3 class="archive__subtitle"><i class="fa fa-thumb-tack" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pinned_posts | default: "Pinned Posts" }}</h3>
+    {% for post in pinned %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
