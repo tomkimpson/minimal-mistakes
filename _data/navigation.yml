@@ -1,7 +1,4 @@
 # Site navigation links
-main:
-- title: About
-  url: /about/
 
 - title: Research
   url: /research/
@@ -9,12 +6,13 @@ main:
 - title: Publications
   url: /pubs/
 
-- title: All Posts
-  url: /posts/
+- title: Interests
+  url: /interests/
 
 - title: Links
   url: /links/
 
-#- title: CV
-#url: /CV.pdf
-#alt: Curriculum Vitae
+- title: CV
+  url: /CV-Template.pdf
+  alt: Curriculum Vitae
+

@@ -1,12 +1,14 @@
 ---
+layout: post
 title: "Linear Programming in Python with CVXOPT"
 modified:
-categories: [HowTo] 
-excerpt: "Finding function extrema w.r.t external constraints"
+categories: 
+excerpt: "Linear Programming in Python with CVXOPT"
 tags: []
 image:
 feature:
-date: 2016-07-27
+date: 2016-07-27T18:29:39-07:00
+
 ---
 
 Often we want to maximize/minimize a function w.r.t some exterior constraints. This can be easily done in Python using the [CVXOPT](http://cvxopt.org/index.html) package. <br> <br> 
