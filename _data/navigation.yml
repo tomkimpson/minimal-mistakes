@@ -1,24 +1,18 @@
 # Site navigation links
 
 - title: CV
-url: /CV-Template.pdf
-alt: Curriculum Vitae
+  url: /CV-Template.pdf
 
 - title: Publications
-url: /pubs/
-
-- title: Links
-url: /links/
-
-- title: Research
-  url: /research/
-
-
+  url: /pubs/
 
 - title: Interests
   url: /interests/
 
+- title: Links
+  url: /links/
 
-
-
+- title: CV
+  url: /CV-Template.pdf
+  alt: Curriculum Vitae
 
