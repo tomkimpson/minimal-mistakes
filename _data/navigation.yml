@@ -3,6 +3,10 @@ main:
 - title: About
   url: /about/
 
+- title: CV
+  url: /LeoCStein.pdf
+  alt: Curriculum Vitae
+
 - title: Research
   url: /research/
 
@@ -14,7 +18,3 @@ main:
 
 - title: Links
   url: /links/
-
-#- title: CV
-#url: /CV.pdf
-#alt: Curriculum Vitae

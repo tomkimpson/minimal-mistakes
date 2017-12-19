@@ -1,14 +1,15 @@
 ---
+layout: post
 title: "Library path changes with otool"
 modified:
-categories: [HowTo] 
+categories: 
 excerpt: "Changing the path of an executable using otool"
 tags: []
 image:
 feature:
-date: 2016-05-28
----
+date: 2016-05-28T18:29:39-07:00
 
+---
 
 I have been using the Fermi-Science tools a lot recently to investigate GRB's under the recent Pass-8 analysis. These tools can be downloaded and installed from the [Fermi website](http://fermi.gsfc.nasa.gov/ssc/data/analysis/software/). The installation sets up a directory holding sub-folders, libraries, executables etc. However, some of the libraries referred to by the executables are incorrect (? - or is it just me?), not specifying the full path and so the exec. file cannot run. This can be fixed using otool in OSX.<br> <br>
 First list all the shared libraries that this exec. file calls upon:

@@ -1,67 +1,77 @@
 ---
 title: "Links"
 permalink: /links/
-date: 2016-01-01
-modified: 2016-01-01
+date: 2015-06-11
+modified: 2016-10-26
 excerpt:
 tags: []
 ---
 
-Some useful stuff - external links.
+Here is a collection of links you may find useful. If there are some
+links you think ought to be here, feel free to suggest them to me.
 
-### General relativity
+# Physics #
 
-* [Sean Carrol's GR notes](https://arxiv.org/abs/gr-qc/9712019)
+* [Gravitational-wave resources](http://www.astro.cornell.edu/~favata/gwresources.html) list from [Marc Favata](http://www.astro.cornell.edu/~favata/)
+* [Hyperspace list](http://hyperspace.uni-frankfurt.de/) of
+  gravity conferences and jobs
+* [Physics research conference (PRC) calendar](http://www.pmaweb.caltech.edu/PhysColl/PhysColl16-17.html) at [Caltech](https://www.caltech.edu/)
+* [TAPIR seminar calendar](http://www.tapir.caltech.edu/seminars/) (I am an
+  organizer)
 
-* [Christoper Pope's GR Notes](http://tomkimpson.com/pdfs/Pope_gravphysics.pdf)
+# Papers #
 
-* [Christopher Popes Geometry + Group Theory Notes](http://tomkimpson.com/pdfs/pope_grouptheory.pdf)
+* [arXiv](http://arxiv.org/) preprints service. I typically read:
+  * [gr-qc](http://arxiv.org/list/gr-qc/new),
+  * [hep-th](http://arxiv.org/list/hep-th/new),
+  * [astro-ph](http://arxiv.org/list/astro-ph/new)
+* [INSPIRE](http://inspirehep.net/) system
+  * [My papers on INSPIRE](http://inspirehep.net/search?p=exactauthor%3AL.C.Stein.2)
+* [NASA ADS](http://labs.adsabs.harvard.edu/adsabs/) service
 
-* [Alexander Hamilton's GR Notes](http://tomkimpson.com/pdfs/Hamilton_GR.pdf)
-(long and thorough)
+# Software #
 
-### Statistics
+* [arXiv keys](https://chrome.google.com/webstore/detail/arxiv-keys/fkjjdlbhliopfhgddlpoggpmpgjfaojd):
+  I wanted keyboard navigation on the arXiv so I made this extension
+  for Chrome. Find the source at
+  [arXiv-keys on github](https://github.com/duetosymmetry/arXiv-keys).
+* [xAct/xTensor](http://xact.es/): I make xTensive use of (and have
+  contributed to) this system for abstract and component tensor math
+  in Mathematica.
+  * [Community-contributed packages](http://contrib.xact.es/) for
+     xAct (I help maintain).
+  * [xTerior](https://github.com/xAct-contrib/xTerior): I coauthored
+    this package for exterior differential geometry
+* I use [Aquamacs](http://aquamacs.org/)
+  [emacs](http://www.gnu.org/software/emacs/) for <s>writing</s>
+  everything.
+  * Use a modern emacs and package management
+    (package.el, should be builtin).
+  * Add [MELPA](https://melpa.org/#/)
+    to your list of package-archives.
+  * Make sure you have [AUCTeX](https://www.gnu.org/software/auctex/)
+  * Make sure you have [magit](https://magit.vc/)
+* [LaTeX](http://www.latex-project.org/)
+  * [AUCTeX](https://www.gnu.org/software/auctex/) makes writing LaTeX
+  in emacs better.
+  * [TeX Live](https://www.tug.org/texlive/);
+    [MacTeX](https://www.tug.org/mactex/)
+  * Make sure you use synctex. It
+    works with [Skim.app](http://skim-app.sourceforge.net/), which is
+    a better PDF reader than Apple's Preview.app.
+* [git](http://git-scm.com/): I recommend using git for revision control
+  * [Leo C. Stein on github](https://github.com/duetosymmetry)
+  * [This web page's repo](https://github.com/duetosymmetry/web-site)
+  * [magit](https://magit.vc/) is the best way to use git from emacs.
+* [make-iop-author-list](https://github.com/duetosymmetry/make-iop-author-list): If you find yourself in the unenviable position of needing to create
+  a long LaTeX author list for an IOP publication, then you don't get
+  nice `\affiliation{}` macros (like in revtex, for example) to do the
+  work for you. Therefore try this script.
+* [Jekyll](http://jekyllrb.com/): This web site was made using Jekyll.
 
-* [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions)
+# Other #
 
-### Software
-
-* [astropy](http://www.astropy.org). Very useful Python package for astro.
-
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). Python library for scraping HTML or XML files. Works well with [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
-
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-* [MatLab to Python](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf)
-
-
-### Travel
-
-* [Mac spoofing for time-limited Wi-Fi](https://github.com/halo/LinkLiar)
-
-* [Revolut](https://revolut.com/)
-
-
-### Great Blogs
-
-* [Scott Aaronson's, Shtetl-Optimized](http://www.scottaaronson.com/blog/?m=201606)
-
-* [Jerry Coyne's, Why Evolution is True](https://whyevolutionistrue.wordpress.com)
-
-* [Phil Plait's, Bad Astronomy](http://www.slate.com/authors.phil_plait.html)
-
-* [Philip Guo's, pgbovine.net](http://www.pgbovine.net/index.html)
-
-* [Jake Vanderplas', Pythonic Perambulations](https://jakevdp.github.io)
-
-
-### Essays
-
-* [The Value of Science - Feynman](http://www.wegerscience.com/documents/thevalueofscience_article.pdf)
-
-* [Science is not the Enemy of the Humanities](https://newrepublic.com/article/114127/science-not-enemy-humanities)
-
-
-### Latex
-
-* [BibTex Style](https://www.reed.edu/cis/help/LaTeX/bibtexstyles.html#natcit)
+* [Digital library of mathematical functions](http://dlmf.nist.gov)
+  (DLMF): This NIST reference replaces Abromowitz and Stegun.
+* [Astrophysics jobs rumor mill](http://www.astrobetter.com/wiki/tiki-index.php?page=Rumor+Mill)
+  wiki.

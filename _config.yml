@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom Kimpson"
+title                    : "UNDER CONSTRUCTION"
 title_separator          : "-"
 name                     : "Tom Kimpson"
 description              : "Newbie studying gravity and general relativity."
@@ -74,14 +74,14 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-102590960-1"
+    tracking_id          : "UA-64041100-1"
 
 
 # Site Author
 author:
-  name             : "Tom Kimpson"
+  name             : "Tom Kimpson 13"
   avatar           : "bio-pic.jpg"
-  bio              : "PhD student in Theoretical Astro @ MSSL, UCL. Space-Lighthouses, Black Holes and Gravity."
+  bio              : "PhD student in Theoretical Astro @ MSSL, UCL. General relativity & spinning BH-NS systems."
   location         : "MSSL, Surrey"
   email            : "tom.kimpson.16@ucl.ac.uk"
   uri              :
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "tomkimpson"
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
