@@ -17,7 +17,6 @@ body {
 	padding: 2em 0 1em;
 	font-family: $heading-font;
 	font-weight: 700;
-	color: $textcolor;
 	text-transform: uppercase;
 	@include clearfix;
 }
@@ -40,6 +39,18 @@ body {
 	@media #{$x-large} {
 		@include grid(12,1.5);
 		@include prefix(12,2);
+	}
+	a {
+		display: block;
+		padding: 10px 0;
+		color: $textcolor;
+		decoration: none;
+		border-bottom: 0 solid transparent;
+		@include transition(all .2s);
+		@media #{$small} {
+			display: inline;
+			padding: 0;
+		}
 	}
 }
 
