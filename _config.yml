@@ -5,22 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
-locale                   : "en-US"
-title                    : "UNDER CONSTRUCTION"
+locale                   : "en"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Tom Kimpson"
-description              : "Newbie studying gravity and general relativity."
-#url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : "https://tomkimpson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : "https://tomkimpson.com"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -31,29 +31,33 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : # "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : # "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
+naver_site_verification  :
 
 # Social Sharing
 twitter:
@@ -72,41 +76,43 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-64041100-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Tom Kimpson 13"
-  avatar           : "bio-pic.jpg"
-  bio              : "PhD student in Theoretical Astro @ MSSL, UCL. General relativity & spinning BH-NS systems."
-  location         : "MSSL, Surrey"
-  email            : "tom.kimpson.16@ucl.ac.uk"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
   uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tomkimpson"
+  github           :
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "KimpsonTom"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -123,6 +129,7 @@ exclude:
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
@@ -135,10 +142,9 @@ exclude:
   - package.json
   - Rakefile
   - README
-  - tohost.sh
   - tmp
-  - page-archive.html
-  - collection-archive.html
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -176,11 +182,11 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins (previously gems:)
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -212,9 +218,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-year_archive:
-  type: liquid
-  path: /posts/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -235,20 +238,6 @@ compress_html:
   ignore:
     envs: development
 
-# Collections
-# collections:
-#   docs:
-#     output: true
-#     permalink: /:collection/:path/
-#   recipes:
-#     output: true
-#     permalink: /:collection/:path/
-#   pets:
-#     output: true
-#     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -259,14 +248,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
+      read_time: true
+      comments: # true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
