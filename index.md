@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: Home
 tags: []
 modified: 2016-05-29
