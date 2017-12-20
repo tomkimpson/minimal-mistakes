@@ -12,16 +12,7 @@ tags: []
 
 Some useful stuff - external links.
 
-### General relativity
 
-* [Sean Carrol's GR notes](https://arxiv.org/abs/gr-qc/9712019)
-
-* [Christoper Pope's GR Notes](http://tomkimpson.com/pdfs/Pope_gravphysics.pdf)
-
-* [Christopher Popes Geometry + Group Theory Notes](http://tomkimpson.com/pdfs/pope_grouptheory.pdf)
-
-* [Alexander Hamilton's GR Notes](http://tomkimpson.com/pdfs/Hamilton_GR.pdf)
-(long and thorough)
 
 ### Statistics
 
