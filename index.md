@@ -20,6 +20,8 @@ For a more detailed outline of my research interests, please see my [research pa
 
 **Posts**
 
-    * [Example 1](http://www.ucl.ac.uk/mssl)
-    * [Example 2](http://www.ucl.ac.uk/mssl)
-    * [Example 3](http://www.ucl.ac.uk/mssl) 
+* [Example 1](http://www.ucl.ac.uk/mssl)
+* [Example 2](http://www.ucl.ac.uk/mssl)
+* [Example 3](http://www.ucl.ac.uk/mssl)
+
+test
