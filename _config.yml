@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tom Kimpson"
 title_separator          : "-"
 name                     : "Tom Kimpson"
-description              : "Newbie studying gravity and general relativity."
+description              : "A personal academic blog"
 #url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : "https://tomkimpson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : "https://tomkimpson.com"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Tom Kimpson"
   avatar           : "bio-pic.jpg"
-  bio              : " student in Theoretical Astro @ MSSL, UCL. Space-Lighthouses, Black Holes and Gravity."
-  location         : "MSSL, Surrey"
+  bio              : " PhD student in Theoretical Astro @ MSSL, UCL. Space-Lighthouses, Black Holes and Gravity."
+  location         : "Surrey, UK"
   email            : "tom.kimpson.16@ucl.ac.uk"
   uri              :
   bitbucket        :
