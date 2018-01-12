@@ -1,7 +1,7 @@
 ---
 title: "Books"
 date: 2011-07-17
-permalink: /Books/
+permalink: /books/
 modified: 2015-08-30
 excerpt:
 tags:

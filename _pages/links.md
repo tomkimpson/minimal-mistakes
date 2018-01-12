@@ -14,7 +14,7 @@ tags: []
 
 * [Music](http://tomkimpson.com/research/)
 
-
+* [Music](http://tomkimpson.com/books/)
 
 Some useful stuff - external links.
 
