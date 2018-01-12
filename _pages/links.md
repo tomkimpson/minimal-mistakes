@@ -9,6 +9,12 @@ tags: []
 
 * [All posts](http://tomkimpson.com/posts/)
 
+### personal
+ * [Books](http://tomkimpson.com/books/)
+
+* [Music](http://tomkimpson.com/books/)
+
+
 
 Some useful stuff - external links.
 
