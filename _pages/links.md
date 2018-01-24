@@ -10,11 +10,11 @@ tags: []
 * [All posts](http://tomkimpson.com/posts/)
 
 ### personal
- * [Books](http://tomkimpson.com/research/)
+ * [Books](http://tomkimpson.com/books/)
 
-* [Music](http://tomkimpson.com/research/)
+* [Music](http://tomkimpson.com/music/)
 
-* [Music](http://tomkimpson.com/books/)
+* [Podcasts](http://tomkimpson.com/podcasts/)
 
 Some useful stuff - external links.
 
