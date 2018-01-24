@@ -8,17 +8,11 @@ tags:
 ---
 
 
-2018
+### 2018
 
-sewing circles herat
-Killing dragons
-atheist muslim
+The Sewing Circles of Herat  - *Christina Lamb*
+Killing dragons: The Conquest of the Alps - *Fergus Fleming*
+The Atheist Muslim - *Ali A. Rizvi*
+Sapiens - *Yuval Noah Harari*
+Homo Deus - *Yuval Noah Harari*
 
-
-Pre 2018
-
-
-
-
-
-test test test books
