@@ -12,7 +12,7 @@ tags:
 
 The Sewing Circles of Herat  - *Christina Lamb*
 
-Killing dragons: The Conquest of the Alps - *Fergus Fleming*
+Killing Dragons: The Conquest of the Alps - *Fergus Fleming*
 
 The Atheist Muslim - *Ali A. Rizvi*
 
@@ -20,4 +20,6 @@ Sapiens - *Yuval Noah Harari*
 
 Homo Deus - *Yuval Noah Harari*
 
-test
+Thomas Jefferson: Author of America - *Christopher Hitchens*
+
+The Foundng Fathers: The Men Who Made America - *Encyclopaedia Britannica*
