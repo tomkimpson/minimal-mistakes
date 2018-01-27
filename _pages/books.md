@@ -10,7 +10,7 @@ tags:
 
 ### 2018
 
-The Sewing Circles of Herat  - *Christina Lamb*
+[The Sewing Circles of Herat](https://www.amazon.co.uk/Sewing-Circles-Herat-Afghan-Years/dp/0007142528)  - *Christina Lamb*
 
 Killing Dragons: The Conquest of the Alps - *Fergus Fleming*
 
