@@ -23,3 +23,7 @@ tags:
 [Thomas Jefferson: Author of America](https://www.amazon.co.uk/Thomas-Jefferson-Author-America-Eminent/dp/0060837063) - *Christopher Hitchens*
 
 [The Founding Fathers: The Men Who Made America](https://www.amazon.co.uk/Founding-Fathers-Essential-Guide-America/dp/0470117923) - *Encyclopaedia Britannica*
+
+[Areopagitica](https://en.wikipedia.org/wiki/Areopagitica) - *John Milton* (techincally a pamphlet rather than a book).
+
+[Musicophilia: Tales of Music and the Brain](https://www.amazon.co.uk/Musicophilia-Tales-Music-Oliver-Sacks/dp/0330523597) - *Oliver Sacks*
