@@ -16,7 +16,7 @@ For a more detailed outline of my research interests, please see my [research pa
 
 This blog serves as a resource for personal notes and a platform for scientific outreach posts. [Most posts](http://tomkimpson.com/posts/) are primarily related in some way to general relativity (GR), our current leading theory of gravity. Some posts are more technical and aimed at those with a more mathematical background, while others should be more widely understandable. These posts are also personally helpful in developing my own writing style and exposing any of my own misunderstandings.
 
-> "Writers write badly when they have something to hide. Clarity makes their shaky assumptions plain to the readers - and to themselves." <br> - Nick Cohen, 2007
+> "Writers write badly when they have something to hide. Clarity makes their shaky assumptions plain to the readers - and to themselves." <br> - [Nick Cohen](https://en.wikipedia.org/wiki/Nick_Cohen)
 
 There are also some short technical computing notes that may be useful as a reference to myself or others.
 
@@ -25,10 +25,3 @@ There are also some short technical computing notes that may be useful as a refe
 **This site is currently under construction.**
 
 
-**Posts**
-
-* [Example 1](http://www.ucl.ac.uk/mssl)
-* [Example 2](http://www.ucl.ac.uk/mssl)
-* [Example 3](http://www.ucl.ac.uk/mssl)
-
-test
