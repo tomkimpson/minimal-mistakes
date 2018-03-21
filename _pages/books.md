@@ -24,6 +24,8 @@ tags:
 
 [The Founding Fathers: The Men Who Made America](https://www.amazon.co.uk/Founding-Fathers-Essential-Guide-America/dp/0470117923) - *Encyclopaedia Britannica*
 
-[Areopagitica](https://en.wikipedia.org/wiki/Areopagitica) - *John Milton* (techincally a pamphlet rather than a book).
+[Areopagitica](https://en.wikipedia.org/wiki/Areopagitica) - *John Milton* (more of a pamphlet rather than a book).
 
 [Musicophilia: Tales of Music and the Brain](https://www.amazon.co.uk/Musicophilia-Tales-Music-Oliver-Sacks/dp/0330523597) - *Oliver Sacks*
+
+[Enlightenment Now](https://www.amazon.co.uk/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570) - *Steven Pinker* (Bill Gates favourite book. My best of 2018)
