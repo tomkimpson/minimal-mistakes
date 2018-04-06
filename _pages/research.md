@@ -7,10 +7,11 @@ excerpt:
 tags:
 ---
 
-<img src="https://www.elisascience.org/files/imagecache/fullview/images/emri.jpg" align="right" style="width:304px;height:228px;">
 
-My research primarily involves investigating Pulsar-Black Hole binary systems. These objects provide the most aggressive and extreme environments in the universe and are the perfect testing ground for general relativity in the strong-field regime.
+My research primarily involves investigating extreme mass ratio Pulsar-Black hole binary systems. These objects provide some of the most aggressive and extreme environments in the universe and are the perfect testing ground for general relativity and fundamental physics.
 
-Recent gravitational wave detections by the ground based [LIGO detector](https://www.ligo.caltech.edu)/[VIRGO](http://public.virgo-gw.eu/language/en/) combined with upcoming radio facilities like [SKA](https://www.skatelescope.org) and space based gravitational wave detectors such as [eLISA](https://www.youtube.com/watch?v=8tZOX7bBkvE) make this an especially exciting time to investigate general relativity with multi-messenger methods in the strong-field regime.
+In particular, my current research involves attempting to determine the theoretical timing signal from a [pulsar](https://www.youtube.com/watch?v=gjLk_72V9Bw) in a relativistic orbit around a massive [black hole](https://www.youtube.com/watch?v=e-P5IFTqB98). Such systems are believed to exist at the centre of galaxies and globular clusters, although none have yet been detected. Such work is important to both inform the detection of these systems, and to provide a theoretical template to then compare with observation for tests of fundamental physics.
 
-My research involves theoretically investigating the detectability of PSR-BH systems and how they can be used to test strong-field GR. To this end, my current work involves investigating the convolution of gravitational and relativistic effects with electromagnetic plasma effects and also how a PSR-BH signal would behave in a time-frequency domain.
+
+
+<img src="https://www.elisascience.org/files/imagecache/fullview/images/emri.jpg" align="center" style="width:304px;height:228px;">
