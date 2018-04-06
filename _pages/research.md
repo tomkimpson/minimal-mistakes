@@ -14,4 +14,4 @@ In particular, my current research involves attempting to determine the theoreti
 
 
 
-<img src="https://www.elisascience.org/files/imagecache/fullview/images/emri.jpg" align="center" style="width:304px;height:228px;">
+<img src="https://www.elisascience.org/files/imagecache/fullview/images/emri.jpg" align="center" style="width:608px;height:456px;">
