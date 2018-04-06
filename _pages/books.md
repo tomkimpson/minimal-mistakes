@@ -28,4 +28,8 @@ tags:
 
 [Musicophilia: Tales of Music and the Brain](https://www.amazon.co.uk/Musicophilia-Tales-Music-Oliver-Sacks/dp/0330523597) - *Oliver Sacks*
 
+[The Man Who Mistook His Wife for a Hat](https://www.amazon.co.uk/Man-Mistook-Wife-Picador-Classic/dp/0330523627) - *Oliver Sacks*
+
 [Enlightenment Now](https://www.amazon.co.uk/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570) - *Steven Pinker* (Bill Gates favourite book. My best of 2018)
+
+[Half of a Yellow Sun](https://www.amazon.co.uk/Half-Yellow-Chimamanda-Ngozi-Adichie/dp/0007200285/ref=sr_1_1?s=books&ie=UTF8&qid=1523030568&sr=1-1&keywords=half+of+a+yellow+sun) - *Chimamanda Ngozi Adichie*
