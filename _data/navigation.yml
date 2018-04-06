@@ -1,7 +1,7 @@
 # Site navigation links
 main:
 - title: CV
-  url: /about/
+  url: /CV.pdf
 
 - title: Research
   url: /research/
