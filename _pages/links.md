@@ -24,6 +24,12 @@ NEW TEST
 
 * [Common Probability distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions)
 
+
+### Algorithms
+
+* [Gradient Descent Methods](http://ruder.io/optimizing-gradient-descent/)
+
+
 ### Software
 
 * [astropy](http://www.astropy.org). Very useful Python package for astro.
