@@ -33,3 +33,5 @@ tags:
 [Enlightenment Now](https://www.amazon.co.uk/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570) - *Steven Pinker* (Bill Gates favourite book. My best of 2018)
 
 [Half of a Yellow Sun](https://www.amazon.co.uk/Half-Yellow-Chimamanda-Ngozi-Adichie/dp/0007200285/ref=sr_1_1?s=books&ie=UTF8&qid=1523030568&sr=1-1&keywords=half+of+a+yellow+sun) - *Chimamanda Ngozi Adichie*
+
+[We should all be Feminists](https://www.amazon.co.uk/We-Should-All-Be-Feminists/dp/0008115273) - *Chimamanda Ngozi Adichie*. Booklet based on the [TED talk of the same name](https://www.ted.com/talks/chimamanda_ngozi_adichie_we_should_all_be_feminists)
