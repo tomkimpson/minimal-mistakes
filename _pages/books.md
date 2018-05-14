@@ -42,3 +42,5 @@ tags:
 
 [The Spy Who Came in from the Cold](https://www.amazon.co.uk/Came-Cold-Penguin-Modern-Classics/dp/0141194529) - *John le Carre*
 
+[This is Going to Hurt](https://www.amazon.co.uk/This-Going-Hurt-Secret-Diaries/dp/150985861X) - *Adam Kay*
+
