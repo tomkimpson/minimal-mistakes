@@ -20,3 +20,8 @@ date: 2018-06-19
     this is some new text. $info-color. What about this:
 
     <span style="color:blue">some *$info-color* text</span>
+
+    <div class="warning">This will be a warning and it should be red!</div>
+
+
+NEW THING
