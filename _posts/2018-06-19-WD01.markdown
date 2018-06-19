@@ -1,8 +1,8 @@
 ---
-title: "Some different Example"
+title: "Weekly Digest"
 modified:
-categories: [example] 
-excerpt: "Notes on remote server access"
+categories: [WD] 
+excerpt: "Weekly Digest 1"
 tags: []
 image:
 feature:
