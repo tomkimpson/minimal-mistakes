@@ -1,7 +1,7 @@
 ---
-title: "Weekly Digest"
+title: "Digest 01"
 modified:
-categories: [WD] 
+categories: [WD]
 excerpt: "Weekly Digest 1"
 tags: []
 image:
@@ -9,6 +9,9 @@ feature:
 date: 2018-06-19
 ---
 
-This is some example post        
+>This is the post in a series trialling noting down anything interesting I read."
 
+  * **Nuclear Energy as a Green power source** - [Pinker](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570).
+    Nuclear energy is the world's most abundance and scalable carbon free energy source. Solar and wind currently provide on ~1.5 % of Earth's energy needs and are limited due to wind calming, sun setting etc. Whilst energy can be stored in batteries, not for the vast amounts of energy we are talking about. Plus wind + solar are not space dense; to keep up with the world's energy use requires covering an area the size of Germany in wind turbines each year.
 
+    In contrast, nuclear generates huge amounts of energy via $E = mc^2$. Uranium mining less impactful than coal/oil/gas and nuclear pants take up less space (1/500 th) than wind or solar. Lower carbon footprint than all alternatives and safer: Coal kills 387 times more people per kWh of electricity generated. **Q: What about nuclear waste?**
