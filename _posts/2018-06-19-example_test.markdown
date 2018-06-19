@@ -1,5 +1,5 @@
 ---
-title: "Example"
+title: "Some different Example"
 modified:
 categories: [example] 
 excerpt: "Notes on remote server access"
