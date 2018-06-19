@@ -15,4 +15,8 @@ date: 2018-06-19
 
     Nuclear energy is the world's most abundance and scalable carbon free energy source. Solar and wind currently provide on ~1.5 % of Earth's energy needs and are limited due to wind calming, sun setting etc. Whilst energy can be stored in batteries, not for the vast amounts of energy we are talking about. Plus wind + solar are not space dense; to keep up with the world's energy use requires covering an area the size of Germany in wind turbines each year.
 
-    In contrast, nuclear generates huge amounts of energy via $E = mc^2$. Uranium mining less impactful than coal/oil/gas and nuclear pants take up less space (1/500 th) than wind or solar. Lower carbon footprint than all alternatives and safer: Coal kills 387 times more people per kWh of electricity generated. **Q: What about nuclear waste?** <span style="color:blue">some *blue* text</span>
+    In contrast, nuclear generates huge amounts of energy via $E = mc^2$. Uranium mining less impactful than coal/oil/gas and nuclear pants take up less space (1/500 th) than wind or solar. Lower carbon footprint than all alternatives and safer: Coal kills 387 times more people per kWh of electricity generated. **Q: What about nuclear waste?** <span style="color:blue">some *#52adc8* text</span>
+
+    this is some new text. $info-color. What about this:
+
+    <span style="color:blue">some *$info-color* text</span>
