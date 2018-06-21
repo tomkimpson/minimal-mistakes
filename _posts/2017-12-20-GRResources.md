@@ -22,14 +22,14 @@ All though the title and front cover speak to the contrary, this is actually a s
 
 * [General Relativity, Robert Wald](https://www.amazon.co.uk/Relativity-Demystified-David-Mcmahon/dp/0071455450)
 
-You can't go wrong with this book, although the more modern Carrol is better IMO.
+A classic for a reason - can't go wrong with Wald, although the more modern Carrol is a touch better IMO.
 
 * [Gravitation (aka MTW), Misner, Thorne, Wheeler](https://www.amazon.co.uk/Gravitation-Physics-Charles-W-Misner/dp/0716703440)
 
 The classic GR bible. For learning GR, Carrol is better, but this is still a great resource and by virtue of being such a massive text, contains some topics excluded from Carrol (e.g. geometric optics in curved spacetime).
 
 
-In addition to the above books, there are also some very good GR notes freely availbale on the web, easily found with Google. Some of the best are,
+In addition to the above books, there are also some very good GR notes freely available on the web, easily found with Google. Some of the best are,
 
 * [Christoper Pope's GR Notes](http://tomkimpson.com/pdfs/Pope_gravphysics.pdf)
 
