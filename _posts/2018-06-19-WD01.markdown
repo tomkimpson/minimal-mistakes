@@ -23,19 +23,13 @@ date: 2018-06-19
 
     <div class="warning">This will be a warning and it should be red!</div>
 
-    some extra stuff
+    <font color="red">This is some text!</font>
+ new edits hello
 
-    this is a pragraph. <div class="warning">This will be a warning and it should be red!</div> stuff
+ <font color="$link-color ">This is some differetn text!</font>
 
-    this is a pragraph.
-    <div class="warning">This will be a warning and it should be red!</div>
-    stuff
 
-    this is a pragraph.
-
-    <div class="warning">This will be a warning and it should be red!</div>
-    
-    stuff
+ <font color="link-color ">This is some OTHER  text!</font>
 
    * **Cooling the atmosphere by reducing solar radiation** - [Keith](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000465%4010.1002/%28ISSN%292328-4277.GEOENGIN1)
    A solar geo-engineering method to reduce the effects of climate change by injecting the stratosphere with either sulphates (potentially problematic as they could produce sulphuric acid which damages the ozone layer) or [calcites](https://www.sciencealert.com/new-light-reflecting-particles-in-the-stratosphere-could-cool-earth-and-fix-the-ozone-layer). Rather than being a panacea to CO2 emissions and global warming, it would instead give some breathing space to keep the global temperature rise to within 2 degrees of pre-industrial levels, whilst methods to reduce and remove the quantity of CO2 in the atmosphere are developed.
