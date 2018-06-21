@@ -88,12 +88,16 @@ $susy: (
 
 
 #p01 {
-       color: blue;
+       color: $link-color;
    }
+
+.hl {
+      	color: $link-color;
+      }
 
 
 .custom {
    	font-family: Courier;
-   	color: green;
+   	color: $link-color;
    	font-size:20px;
    }
