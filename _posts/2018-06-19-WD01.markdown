@@ -31,6 +31,16 @@ date: 2018-06-19
 
  <font color="link-color ">This is some OTHER  text!</font>
 
+ <p id="p01">I am different</p>
+
+
+new thing
+
+hello hello <p>Only the word <span class="custom">TEST</span> is red and Courier.</p> dsdsjds
+
+
+
+
    * **Cooling the atmosphere by reducing solar radiation** - [Keith](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000465%4010.1002/%28ISSN%292328-4277.GEOENGIN1)
    A solar geo-engineering method to reduce the effects of climate change by injecting the stratosphere with either sulphates (potentially problematic as they could produce sulphuric acid which damages the ozone layer) or [calcites](https://www.sciencealert.com/new-light-reflecting-particles-in-the-stratosphere-could-cool-earth-and-fix-the-ozone-layer). Rather than being a panacea to CO2 emissions and global warming, it would instead give some breathing space to keep the global temperature rise to within 2 degrees of pre-industrial levels, whilst methods to reduce and remove the quantity of CO2 in the atmosphere are developed.
 
