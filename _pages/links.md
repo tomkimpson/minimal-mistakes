@@ -9,15 +9,19 @@ tags: []
 
 * [All posts](http://tomkimpson.com/posts/)
 
-### personal
+* [Weekly digest](http://tomkimpson.com/categories/)
+
+### Personal
  * [Books](http://tomkimpson.com/books/)
 
 * [Music](http://tomkimpson.com/music/)
 
 * [Podcasts](http://tomkimpson.com/podcasts/)
 
-Some useful stuff - external links.
-NEW TEST
+
+### Physics
+ 
+* [GR Resources](http://tomkimpson.com/GRResources/)
 
 
 ### Statistics
