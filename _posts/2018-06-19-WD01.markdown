@@ -13,38 +13,13 @@ date: 2018-06-19
 
   * **Nuclear Energy as a Green power source** - [Pinker](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570)
 
-    Nuclear energy is the world's most abundance and scalable carbon free energy source. Solar and wind currently provide on ~1.5 % of Earth's energy needs and are limited due to wind calming, sun setting etc. Whilst energy can be stored in batteries, not for the vast amounts of energy we are talking about. Plus wind + solar are not space dense; to keep up with the world's energy use requires covering an <div class="warning">area the size of Germany</div>  in wind turbines each year.
+    Nuclear energy is the world's most abundance and scalable carbon free energy source. Solar and wind currently provide only <span class="hl">~1.5 %</span>  of Earth's energy needs and are limited due to wind calming, sun setting etc. Whilst energy can be stored in batteries, not for the vast amounts of energy we are talking about. Plus wind + solar are not space dense; to keep up with the world's energy use requires covering an area <span class="hl">the size of Germany</span> in wind turbines each year.
 
-    In contrast, nuclear generates huge amounts of energy via $$E = mc^2$$. Uranium mining less impactful than coal/oil/gas and nuclear pants take up less space <div class="warning">(1/500 th)</div>  than wind or solar. Lower carbon footprint than all alternatives and safer: <div class="warning">kills 387 times more people</div>Coal per kWh of electricity generated. **Q: What about nuclear waste?**
+    In contrast, nuclear generates huge amounts of energy via $$E = mc^2$$. Uranium mining less impactful than coal/oil/gas and nuclear pants take up less space <span class="hl">(1/500 th)</span> than wind or solar. Lower carbon footprint than all alternatives and safer: Coal <span class="hl">kills 387 times more people</span> per kWh of electricity generated. **Q: What about nuclear waste?**
 
     Nuclear energy is currently expensive due to primarily due to regulatory hurdles ( [~ $ 200 million per plant](https://www.americanactionforum.org/research/putting-nuclear-regulatory-costs-context/) ), whilst solar is cheap in part due to subsidies that [may be about to dry up](https://www.economist.com/business/2018/06/14/can-the-solar-industry-survive-without-subsidies). The is potential for new reactors to be installed on offshore cities (solving NIMBY problem), to be fuelled by abundant thorium or uranium extracted from seawater!
 
     The benefits of an energy source that is cleaner, denser, + cheaper than fossil fuels would be immense (think easy desalination of seawater.)
-
-    NEW NEW
-
-    <div class="warning">This will be a warning and it should be red!</div>
-
-    <font color="red">This is some text!</font>
- new edits hello
-
- <font color="$link-color ">This is some differetn text!</font>
-
-
- <font color="link-color ">This is some OTHER  text!</font>
-
- <p id="p01">I am different</p>
-
-
-new thing
-
-hello hello <p>Only the word <span class="custom">TEST</span> is red and Courier.</p> dsdsjds
-
-
-hopefully now <span class="hl">THIS</span> is finally correct and withing a sentence
-
-
-
 
    * **Cooling the atmosphere by reducing solar radiation** - [Keith](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000465%4010.1002/%28ISSN%292328-4277.GEOENGIN1)
 
