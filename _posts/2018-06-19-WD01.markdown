@@ -9,7 +9,7 @@ feature:
 date: 2018-06-19
 ---
 
->This is the first post in a series trialling noting down anything interesting I come across.
+>This post is the first in a weekly series trialling this blog as a repository for any interesting morsels or tidbits that I discover but am bound to forget.
 
   * **Nuclear Energy as a Green power source** - [Pinker](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570)
 
