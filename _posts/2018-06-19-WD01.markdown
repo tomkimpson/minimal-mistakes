@@ -21,6 +21,10 @@ date: 2018-06-19
 
     The benefits of an energy source that is cleaner, denser, + cheaper than fossil fuels would be immense (think easy desalination of seawater.)
 
+    <div class="warning">This will be a warning and it should be red!</div>
+
+    some extra stuff
+
    * **Cooling the atmosphere by reducing solar radiation** - [Keith](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000465%4010.1002/%28ISSN%292328-4277.GEOENGIN1)
    A solar geo-engineering method to reduce the effects of climate change by injecting the stratosphere with either sulphates (potentially problematic as they could produce sulphuric acid which damages the ozone layer) or [calcites](https://www.sciencealert.com/new-light-reflecting-particles-in-the-stratosphere-could-cool-earth-and-fix-the-ozone-layer). Rather than being a panacea to CO2 emissions and global warming, it would instead give some breathing space to keep the global temperature rise to within 2 degrees of pre-industrial levels, whilst methods to reduce and remove the quantity of CO2 in the atmosphere are developed.
 
@@ -29,4 +33,4 @@ date: 2018-06-19
    These are Mexico, Columbia, Brazil and Venezuela. This is an interesting realisation that the distribution of homicides is highly lopsided. This skew is fractal in the sense that within a country most homicides occurs in a few cities, and within the city a few neighborhoods. This is in fact good news as it means that the rate of homicide can be drastically reduced by targeting just a few key areas. See e.g. [Instinto de Vida](https://www.instintodevida.org/) an attempt to halve homicide in Latin America within a decade.
 
 
-   * **Lester Young playing `I Cover the Waterfront`** [Lester](https://www.youtube.com/watch?v=Uqi84qISiKs)
+   * **Lester Young playing** [I Cover the Waterfront](https://www.youtube.com/watch?v=Uqi84qISiKs)
