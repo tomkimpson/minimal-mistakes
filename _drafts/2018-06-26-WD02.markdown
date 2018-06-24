@@ -1,0 +1,11 @@
+---
+title: "Digest 02"
+modified:
+categories: [WD]
+excerpt: "Weekly Digest 2"
+tags: []
+image:
+feature:
+date: 2018-06-26
+---
+
