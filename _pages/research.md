@@ -13,5 +13,7 @@ My research primarily involves investigating extreme mass ratio Pulsar-Black hol
 In particular, my current research involves attempting to determine the theoretical timing signal from a [pulsar](https://www.youtube.com/watch?v=gjLk_72V9Bw) in a relativistic orbit around a massive [black hole](https://www.youtube.com/watch?v=e-P5IFTqB98). Such systems are believed to exist at the centre of galaxies and globular clusters, although none have yet been detected. Such work is important to both inform the detection of these systems, and to provide a theoretical template to then compare with observation for tests of fundamental physics.
 
 
+<img src="http://tomkimpson.com/images/rt1.png" align="right">
 
-<img src="https://www.elisascience.org/files/imagecache/fullview/images/emri.jpg" align="center" style="width:608px;height:456px;">
+
+[comment]: # <img src="https://www.elisascience.org/files/imagecache/fullview/images/emri.jpg" align="center" style="width:608px;height:456px;">
