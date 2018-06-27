@@ -9,3 +9,19 @@ feature:
 date: 2018-06-26
 ---
 
+
+ * Chinese private company OneSpace [launches first rocket](https://www.youtube.com/watch?reload=9&v=sd-GBymrtqc)
+
+   This is particularly notable as they are using solid rather than liquid fuel. Whilst for large rockets solid fuel has a [number of drawbacks](https://en.m.wikipedia.org/wiki/Rocket_propellant) (inc. can't throttle, larger payload fraction/lower specific impulse, voids/cracks in propellant affect combustion rate an can lead to 'catastrophic failure'), OneSpace wants to use these rockets for launching miniaturized satellites, e.g. [CubeSat](https://en.wikipedia.org/wiki/CubeSat)
+
+
+  * ML algo [rejects 75% of CVs](https://www.economist.com/business/2018/06/23/how-an-algorithm-may-decide-your-career) before they are seen by a human. 
+
+    This is ultimately useful - Goldman Sachs receives 250 K applications / year. Worries exist around bias and the triggering of an arms race: as applicants learn the methods and keywords to get past the algorithm, and the algorithm in turn adjusts to screen more candidates.
+
+
+ * [Is war part of being human?](https://www.bbc.co.uk/programmes/b0b7f390) - Margaret MacMillan
+
+ * Assorted sleep nuggets from [Why We Sleep - Matthew Walker](https://www.sleepdiplomat.com/professor)
+
+   Lots of interesting stuff in this book, mainly stressing importance of sleep on health/cognition/productivity. Adenosine as sleep pressure, melatonin (the 'IT IS DARK' hormone) is triggered by artificial light which can make it difficult to sleep at night, alcohol before bed can inhibit REM sleep, the triggering of [Cataplectic attacks](https://www.narcolepsy.org.uk/resources/cataplexy) in narcolepsy sufferers by strong emotions (e.g. telling a joke or surprising someone), REM sleep paralysis as explanation for alien abduction claims (also induces feelings of an intruder in the room), link of sleeping pills to higher mortality rates - possibly since sleeping pills are sedatives and so don't trigger REM sleep. Lack of REM sleep is in turn related to higher infection rates, more fatal accidents (e.g. motor) and increased cancer incidence rate. 
