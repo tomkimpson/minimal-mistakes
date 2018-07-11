@@ -1,0 +1,11 @@
+---
+title: "Digest 03"
+modified:
+categories: [WD]
+excerpt: "Weekly Digest 3"
+tags: []
+image:
+feature:
+date: 2018-07-01
+---
+
