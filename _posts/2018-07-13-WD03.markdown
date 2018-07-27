@@ -1,0 +1,21 @@
+---
+title: "Digest 03"
+modified:
+categories: [WD]
+excerpt: "Weekly Digest 3"
+tags: []
+image:
+feature:
+date: 2018-07-13
+---
+
+
+* [National Geographic's Photographer of the Year](http://travel.nationalgeographic.com/photographer-of-the-year-2018/gallery/winners-all/1/)
+
+* [Buckminster Fuller](https://kottke.org/18/07/this-nonsense-of-earning-a-living) on earning a living:
+
+>We must do away with the absolutely specious notion that everybody has to earn a living. It is a fact today that one in ten thousand of us can make a technological breakthrough capable of supporting all the rest. The youth of today are absolutely right in recognizing this nonsense of earning a living. We keep inventing jobs because of this false idea that everybody has to be employed at some kind of drudgery because, according to Malthusian-Darwinian theory, he must justify his right to exist. So we have inspectors of inspectors and people making instruments for inspectors to inspect inspectors. The true business of people should be to go back to school and think about whatever it was they were thinking about before somebody came along and told them they had to earn a living.
+
+* MeerKat [Photo of the Galactic Centre](http://www.ska.ac.za/media-releases/meerkat-radio-telescope-inaugurated-in-south-africa-reveals-clearest-view-yet-of-center-of-the-milky-way/)
+
+ 
