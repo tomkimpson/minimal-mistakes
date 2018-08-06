@@ -48,9 +48,13 @@ tags:
 
 [Why We Sleep](https://www.amazon.co.uk/Why-We-Sleep-Science-Dreams/dp/0241269067) - *Matthew Walker*
 
-[Greenwich](https://www.amazon.co.uk/Greenwich-Place-Where-Days-Begin/dp/0349112304) - Charles Jennings
+[Greenwich](https://www.amazon.co.uk/Greenwich-Place-Where-Days-Begin/dp/0349112304) - *Charles Jennings*
 
-[Adventures of a Young Naturalist](https://www.amazon.co.uk/Adventures-Young-Naturalist-ATTENBOROUGHS-EXPEDITIONS/dp/1473664403) - David Attenborough
+[Adventures of a Young Naturalist](https://www.amazon.co.uk/Adventures-Young-Naturalist-ATTENBOROUGHS-EXPEDITIONS/dp/1473664403) - *David Attenborough*
+
+[Behave: The Biology of Humans at Our Best and Worst](https://www.amazon.co.uk/Behave-Biology-Humans-Best-Worst/dp/1594205078) - *Robert Sapolsky*
+
+[The Great Gatsby](https://www.amazon.co.uk/Great-Gatsby-Penguin-Modern-Classics/dp/0141182636) - *F. Scott Fitzgerald*
 
 
 
