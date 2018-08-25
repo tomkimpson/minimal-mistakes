@@ -56,5 +56,7 @@ tags:
 
 [The Great Gatsby](https://www.amazon.co.uk/Great-Gatsby-Penguin-Modern-Classics/dp/0141182636) - *F. Scott Fitzgerald*
 
+[Epitaph for a Spy](https://www.amazon.co.uk/Epitaph-Spy-Penguin-Modern-Classics/dp/0141190310) - *Eric Ambler*
+
 
 
