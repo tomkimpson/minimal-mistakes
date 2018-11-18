@@ -58,5 +58,16 @@ tags:
 
 [Epitaph for a Spy](https://www.amazon.co.uk/Epitaph-Spy-Penguin-Modern-Classics/dp/0141190310) - *Eric Ambler*
 
+[The Righteous Mind](https://www.amazon.co.uk/Righteous-Mind-Divided-Politics-Religion/dp/0141039167) - *Johnathon Haidt*
+
+[On the Move](https://www.amazon.co.uk/Move-Life-Oliver-Sacks/dp/1447264045) - *Oliver Sacks*
+
+[Tribe of Mentors](https://www.amazon.co.uk/Tribe-Mentors-Short-Advice-World/dp/1785041851/ref=asap_bc?ie=UTF8) - *Timothy Ferris*
+
+[QI: The Book of the Dead](https://www.amazon.co.uk/QI-Book-Dead-John-Lloyd/dp/0571324118) - *John LLoyd*
+
+[What's Left](https://www.amazon.co.uk/Whats-Left-Lost-Liberals-Their/dp/0007229704) - *Nick Cohen*
+
+[Awakenings](https://www.amazon.co.uk/Awakenings-Oliver-Sacks/dp/0330523678) - *Oliver Sacks*
 
 
