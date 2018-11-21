@@ -21,6 +21,6 @@ First LISA consortium meeting was held this month in the south of France, at the
 
 * The impact of sub-optimal modelling of EMRI sources. LISA will observe multiple sources simultaneously. The likelihood surface of a single EMRI is very complicated with many local maxima. This becomes additionally complicated if you are looking at multiple sources e.g. how do you distinguish these 10 sources from these 11 sources with difference parameters i.e. a degeneracy problem. The waveforms between source classes are sufficiently different such that this shouldn't be a problem, but within a class this could be problematic.
 
+<img src="http://tomkimpson.com/images/lisa.jpg" align="middle">
 
-![alt text][http://tomkimpson.com/images/lisa.jpg]
-test
+test2
