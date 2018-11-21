@@ -10,6 +10,18 @@ date: 2018-11-30
 pinned: false
 ---
 
+**Papers**
+
+Due to some funky timescales + mitigating factors, I have ended up submitting the first two papers of my PhD in the same month. These are,
+
+* _Spatial dispersion of light rays propagating through a plasma in
+Kerr spacetime._ Submitted to MNRAS.
+
+* _General Relativistic Pulsar Timing._ Submitted to MNRAS.
+
+Fingers crossed!
+
+
 **LISA Consortium Meeting, Marseillie**
 
 First LISA consortium meeting was held this month in the south of France, at the very impressive Palais du Pharo. Lots of interesting stuff, highlights include:
@@ -22,13 +34,3 @@ First LISA consortium meeting was held this month in the south of France, at the
 * The impact of sub-optimal modelling of EMRI sources. LISA will observe multiple sources simultaneously. The likelihood surface of a single EMRI is very complicated with many local maxima. This becomes additionally complicated if you are looking at multiple sources e.g. how do you distinguish these 10 sources from these 11 sources with difference parameters i.e. a degeneracy problem. The waveforms between source classes are sufficiently different such that this shouldn't be a problem, but within a class this could be problematic.
 
 <img src="http://tomkimpson.com/images/lisa.jpg" align="middle">
-
-**Papers**
-Due to some funky timescales + mitigating factors, I have ended up submitting the first two papers of my PhD in the same month. These are,
-
-* Spatial dispersion of light rays propagating through a plasma in
-Kerr spacetime. Submitted to MNRAS.
-
-* General Relativistic Pulsar Timing. Submitted to MNRAS.
-
-Fingers crossed!
