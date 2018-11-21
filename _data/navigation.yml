@@ -12,6 +12,9 @@ main:
 - title: Resources
   url: /links/
 
+- title: Blog
+  url: /posts/
+
 #- title: CV
 #url: /CV.pdf
 #alt: Curriculum Vitae
