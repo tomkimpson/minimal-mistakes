@@ -23,4 +23,12 @@ First LISA consortium meeting was held this month in the south of France, at the
 
 <img src="http://tomkimpson.com/images/lisa.jpg" align="middle">
 
-test2
+**Papers**
+Due to some funky timescales + mitigating factors, I have ended up submitting the first two papers of my PhD in the same month. These are,
+
+* Spatial dispersion of light rays propagating through a plasma in
+Kerr spacetime. Submitted to MNRAS.
+
+* General Relativistic Pulsar Timing. Submitted to MNRAS.
+
+Fingers crossed!
