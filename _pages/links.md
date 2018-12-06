@@ -7,11 +7,6 @@ excerpt:
 tags: []
 ---
 
-* [All posts](http://tomkimpson.com/posts/)
-
-### Personal
- * [Books](http://tomkimpson.com/books/)
-
 ### Physics
  
 * [GR Resources](http://tomkimpson.com/GRResources/)
@@ -72,3 +67,7 @@ tags: []
 ### Latex
 
 * [BibTex Style](https://www.reed.edu/cis/help/LaTeX/bibtexstyles.html#natcit)
+
+
+### All
+* [All posts](http://tomkimpson.com/posts/)
