@@ -34,7 +34,7 @@ tags: []
 
 * [Everything about Git](https://kbroman.org/github_tutorial/)
 
-*[Setting up custom domain with Github](https://medium.com/@supriyakankure/how-to-add-a-custom-domain-to-your-github-page-with-godaddy-84495781143e)
+* [Setting up custom domain with Github](https://medium.com/@supriyakankure/how-to-add-a-custom-domain-to-your-github-page-with-godaddy-84495781143e)
 
 
 ### Travel
@@ -68,6 +68,9 @@ tags: []
 
 * [BibTex Style](https://www.reed.edu/cis/help/LaTeX/bibtexstyles.html#natcit)
 
+### Misc
+
+* [How to contact a potential supervisor](https://academia.stackexchange.com/questions/5511/how-to-contact-a-potential-postdoc-advisor)
 
 ### All
 * [All posts](http://tomkimpson.com/posts/)
