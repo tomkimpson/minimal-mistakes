@@ -8,5 +8,3 @@ tags: []
 ---
 
 All my publications can be found on the [arXiv](https://arxiv.org/search/astro-ph?query=Kimpson%2C+T+&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
-
-Simple, lay explanations can be found in the blog posts below.
