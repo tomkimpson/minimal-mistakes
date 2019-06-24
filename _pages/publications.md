@@ -7,4 +7,4 @@ excerpt:
 tags: []
 ---
 
-All my publications can be found on the [arXiv](https://arxiv.org/search/astro-ph?query=Kimpson%2C+T+&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+All my publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Kimpson%2C%20T%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
