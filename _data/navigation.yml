@@ -12,6 +12,12 @@ main:
 - title: Resources
   url: /links/
 
+- title: Talks
+  url: /talks/
+
+- title: Codes
+  url: /codes/
+
 #- title: Blog
 #  url: /posts/
 
