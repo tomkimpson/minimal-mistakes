@@ -1,0 +1,19 @@
+---
+layout: pub-link
+title: "Submitted: Assessing the Post-Keplerian framework in the strong-field regime"
+modified:
+categories: pubs
+excerpt: "PK in the strong field"
+pub:
+  authors: "Kimpson. T, Wu. K, Zane. S"
+  doi:
+  arXiv:
+  jref:
+image:
+  feature:
+date: 2019-09-01T00:00:00-05:00
+
+---
+
+
+Submitted to MNRAS.
