@@ -6,41 +6,24 @@ modified: 2019-08-30
 excerpt:
 tags:
 ---
-Here are some talks....
 
-<span style="color:blue">some *blue* text. this is an example </span>
+### 2019
+* <span style="color:#52adc8">Multimessenger astrophysics of Pulsar EMRBs</span>. July 2019. 22nd International Conference on General Relativity and Gravitation, Valencia.
 
-<span style="color:$link-color">tgis is anither eg some *blue* text. this is an example </span>
+* <span style="color:#52adc8">Pulsar Timing in Extreme Mass Ratio Binaries</span>. July 2019. National Astronomy Meeting, Lancaster.
 
+Poster:
+* <span style="color:#52adc8">Modeling in the gravitational strong field</span>. June 2019. Computational Sciences in the 21st Century, London
 
-<span style="color: $link-color">Does this work?</span>
+Poster:
+* <span style="color:#52adc8">Modeling in the gravitational strong field</span>. June 2019. GW@UCL, London.
 
+* <span style="color:#52adc8">Pulsars as probes of strong-field GR</span>. May 2019. Science Possibilities Investigating Neutron Stars, London.
 
-<span style="color:#7a8288">Or even this?</span>
-
-<span style="color:#52adc8">this for sure</span>
-
-
-
-
-
+* <span style="color:#52adc8">General Relativistic Pulsar Timing
+</span>. Jan 2019. Mullard Space Science Laboratory, London.
 
 
-* July 2019 Multimessenger astrophysics of Pulsar EMRBs
+### 2018
+* <span style="color:#52adc8">Spatial dispersion in the strong-field: Implications for PSR timing</span>. March 2018. INAF Cagliari, Italy.
 
-* 22nd International Conference on General Relativity and Gravitation, Valencia
-
-* July 2019 Pulsar Timing in Extreme Mass Ratio Binaries
-National Astronomy Meeting, Lancaster
-
-* June 2019 Modelling in the gravitational strong field
-Computational Sciences in the 21st Century, London
-
-* May 2019 Pulsars as probes of strong-field GR
-Science Possibilities Investigating Neutron Stars, London
-
-* Jan 2019 General Relativistic Pulsar Timing
-Mullard Space Science Laboratory, UCL
-
-* March 2018 Spatial dispersion in the strong-field: Implications for PSR timing
-INAF Cagliari, Italy
