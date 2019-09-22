@@ -13,6 +13,10 @@ Here are some talks....
 <span style="color:$link-color">tgis is anither eg some *blue* text. this is an example </span>
 
 
+<span style="color: $link-color">Does this work?</span>
+
+
+<span style="color:#7a8288">Or even this?</span>
 
 
 
