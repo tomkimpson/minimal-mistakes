@@ -8,6 +8,16 @@ tags:
 ---
 Here are some talks....
 
+<span style="color:blue">some *blue* text. this is an example </span>
+
+<span style="color:$link-color">tgis is anither eg some *blue* text. this is an example </span>
+
+
+
+
+
+
+
 * July 2019 Multimessenger astrophysics of Pulsar EMRBs
 
 * 22nd International Conference on General Relativity and Gravitation, Valencia
