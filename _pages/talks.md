@@ -12,18 +12,18 @@ tags:
 
 * <span style="color:#52adc8">Pulsar Timing in Extreme Mass Ratio Binaries</span>. July 2019. National Astronomy Meeting, Lancaster.
 
-Poster:
-* <span style="color:#52adc8">Modeling in the gravitational strong field</span>. June 2019. Computational Sciences in the 21st Century, London
-
-Poster:
-* <span style="color:#52adc8">Modeling in the gravitational strong field</span>. June 2019. GW@UCL, London.
+* <span style="color:#52adc8">Fundamental physics with pulsars </span>. June 2019. GW@UCL, London.
 
 * <span style="color:#52adc8">Pulsars as probes of strong-field GR</span>. May 2019. Science Possibilities Investigating Neutron Stars, London.
 
-* <span style="color:#52adc8">General Relativistic Pulsar Timing
-</span>. Jan 2019. Mullard Space Science Laboratory, London.
-
+* <span style="color:#52adc8">General Relativistic Pulsar Timing </span>. Jan 2019. Mullard Space Science Laboratory, London.
 
 ### 2018
 * <span style="color:#52adc8">Spatial dispersion in the strong-field: Implications for PSR timing</span>. March 2018. INAF Cagliari, Italy.
 
+
+
+## Posters
+
+Poster:
+* <span style="color:#52adc8">Modeling in the gravitational strong field</span>. June 2019. Computational Sciences in the 21st Century, London

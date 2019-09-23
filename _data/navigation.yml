@@ -1,7 +1,5 @@
 # Site navigation links
 main:
-- title: CV
-  url: /CV.pdf
 
 - title: Research
   url: /research/
@@ -9,14 +7,17 @@ main:
 - title: Publications
   url: /pubs/
 
-- title: Resources
-  url: /links/
-
 - title: Talks
   url: /talks/
 
 - title: Codes
   url: /codes/
+
+- title: Resources
+  url: /links/
+
+- title: CV
+  url: /CV.pdf
 
 #- title: Blog
 #  url: /posts/
