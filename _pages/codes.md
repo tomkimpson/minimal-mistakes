@@ -13,7 +13,7 @@ In order to enable [reproducible research](http://reproducibleresearch.net/) I a
 
 If you use any of the codes for work resulting in publication, we kindly request you reference the appropriate code and papers. Thanks!
 
-##
+--------------------------------------------------------
 
 * [ForwardRayTracing](https://github.com/tomkimpson/ForwardRayTracing). Ray Tracing in a curved Kerr spacetime from a moving relativistic source.
 
@@ -25,9 +25,3 @@ If you use any of the codes for work resulting in publication, we kindly request
 
 * [GW_Bursts](https://github.com/tomkimpson/GW_Bursts). Gravitational waveform modelling from extreme mass ratio binaries.
 
-
-
-
-
-
-Soem codes. Link to githib https://github.com/tomkimpson
