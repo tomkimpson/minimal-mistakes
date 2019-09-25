@@ -68,9 +68,6 @@ tags: []
 
 * [BibTex Style](https://www.reed.edu/cis/help/LaTeX/bibtexstyles.html#natcit)
 
-### Misc
-
-* [How to contact a potential supervisor](https://academia.stackexchange.com/questions/5511/how-to-contact-a-potential-postdoc-advisor)
 
 ### All
 * [All posts](http://tomkimpson.com/posts/)
