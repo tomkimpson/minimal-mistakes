@@ -15,7 +15,7 @@ If you use any of the codes for work resulting in publication, we kindly request
 
 --------------------------------------------------------
 
-* [Iliad](https://github.com/tomkimpson/Iliad). Theoretical, computational modelling of the electromagnetic time-frequency signal from a pulsar orbiting a massive BH, subject to al relativistic and astrophysical effects. Public release in progress.
+* [Iliad](https://github.com/tomkimpson/Iliad). Theoretical, computational modelling of the electromagnetic time-frequency signal from a pulsar orbiting a massive BH, subject to all relativistic and astrophysical effects. Public release in progress.
 
 * [GW_Bursts](https://github.com/tomkimpson/GW_Bursts). Gravitational waveform modelling from extreme mass ratio binaries.
 
