@@ -1,6 +1,6 @@
 ---
 layout: pub-link
-title: "Gravitational Burst Radiation from Pulsars in the Galactic centre and stellar clusters"
+title: "Submitted: Gravitational Burst Radiation from Pulsars in the Galactic centre and stellar clusters"
 modified:
 categories: pubs
 excerpt: "GW Bursts from PSRs"
