@@ -8,4 +8,4 @@ patent: https://patents.google.com/patent/US10007994B2
 patent2: https://patents.google.com/patent/US20170374244A1
 patent3: https://patents.google.com/patent/US9992474B2
 ---
-A low-cost dense, configurable projector system for RGB-D depth sensors. 
+A low-cost dense, configurable projector system for RGB-D depth sensors.
