@@ -1,24 +1,11 @@
 ---
 layout: post
-title:  "Iliad Code"
-date:   2020-01-02 00:00:00 +00:00
-image: images/temp.png
-categories: code
-author: "Tom Kimpson"
+title:  "Compact VCSEL Projector"
+date:   2016-06-27 22:21:59 +00:00
+image: /images/vcsel.png
+categories: Intel
+patent: https://patents.google.com/patent/US10007994B2
+patent2: https://patents.google.com/patent/US20170374244A1
+patent3: https://patents.google.com/patent/US9992474B2
 ---
-This code does XY and A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->
+A low-cost dense, configurable projector system for RGB-D depth sensors. 

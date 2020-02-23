@@ -54,7 +54,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2><a href="#research">Research NEW</a></h2>
+              <h2 name="element">Research Element</h2>
               <p>
                 My primary  research interests are in the multimessenger astrophysics of compact objects.  In particular, I am interested and the use of these systems to explore deep questions in fundamental physics (e.g. strong-field general relativity) and astrophysics.
             </td>
@@ -111,7 +111,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Code NEW</h2>
+              <h2>Code</h2>
               <p>Throughout my research I have written a number of scientific codes, typically relating to time-frequency modelling and signal analysis of non-linear, dynamical astrophysical systems. In order to enable <a href="http://reproducibleresearch.net/">reproducible research</a> I am attempting to make all codes associated with published papers publicly available with documentation. This endeavour is currently a work in progress!
               </p>
             </td>
@@ -121,7 +121,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'research' %}
+          {% if cat == 'Intel' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
