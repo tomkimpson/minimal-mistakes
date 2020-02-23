@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Prospects for Fundamental Physics with LISA"
+date:   2020-01-02 00:00:00 +00:00
+image: images/LISA.png
+categories: research
+author: "Tom Kimpson"
+authors: "Barausse et al., including <strong>Tom Kimpson</strong>"
+venue: "eprint"
+arxiv: https://arxiv.org/abs/2001.09793
+---
+Exploring the potential of the <a href="https://lisa.nasa.gov/">Laser Interferometer Space Antenna</a> (LISA) for probing fundamental physics. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>

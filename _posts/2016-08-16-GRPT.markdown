@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Pulsar timing in extreme mass ratio binaries: a general relativistic approach"
+date:   2019-01-02 00:00:00 +00:00
+image: images/grpt.png
+categories: research
+author: "Tom Kimpson"
+authors: "<strong>Tom Kimpson</strong>, Kinwah Wu, Silvia Zane"
+venue: "MNRAS"
+doi: https://doi.org/10.1093/mnras/stz845
+arxiv: https://arxiv.org/abs/1903.08258
+---
+Initial steps on computationally modelling the time-frequency signal from PSR-BH systems. Such a framework is necessary to both inform the detection of a PSR-BH system and to use these systems for tests of fundamental physics and astrophysics.
+
+
+
+
+
+
+
+>
