@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Intel RealSense 400"
-date:   2016-08-15 21:21:53 +00:00
-image: /images/rs400.jpg
-categories: Intel
-author: "Leo Keselman"
-subtitle: "Stereo Depth Camera"
+title:  "Spatial dispersion of light rays propagating through a plasma in Kerr space-time"
+date:   2019-01-01 00:00:00 +00:00
+image: /images/kerrPLASMA
+categories: research
+author: "Tom Kimpson"
+authors: "<strong>Tom Kimpson</strong>, Kinwah Wu, Silvia Zane"
+arxiv: https://arxiv.org/abs/1904.05537
 ---
-My responsibilities included system performance, components of the stereo algorithm on the imaging ASIC, and contributions to the design of laser projector pattern. 
+My responsibilities included system performance, components of the stereo algorithm on the imaging ASIC, and contributions to the design of laser projector pattern.
 
 Additional details are in an [arXiv paper](https://arxiv.org/abs/1705.05548){:target="_blank"}.
 
