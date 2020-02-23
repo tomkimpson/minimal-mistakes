@@ -3,7 +3,7 @@ layout: post
 title:  "Spatial dispersion of light rays propagating through a plasma in Kerr space-time"
 date:   2019-01-01 00:00:00 +00:00
 image: images/kerrPLASMA.png
-categories: research2
+categories: code2
 author: "Tom Kimpson"
 authors: "<strong>Tom Kimpson</strong>, Kinwah Wu, Silvia Zane"
 venue: "MNRAS"
