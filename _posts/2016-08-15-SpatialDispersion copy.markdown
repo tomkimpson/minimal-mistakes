@@ -4,6 +4,7 @@ title:  "Iliad"
 date:   2019-01-01 00:00:00 +00:00
 image: images/temp.png
 categories: code2
+venue: "GitHub"
 author: "Tom Kimpson"
 code: https://github.com/tomkimpson/Iliad
 ---
