@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pulsar timing in extreme mass ratio binaries: a general relativistic approach"
-date:   2019-01-02 00:00:00 +00:00
+date:   2020-01-02 00:00:00 +00:00
 image: images/grpt.png
 categories: research
 author: "Tom Kimpson"

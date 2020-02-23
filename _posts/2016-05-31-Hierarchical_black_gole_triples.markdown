@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hierarchical black hole triples in young star clusters: impact of Kozai-Lidov resonance on mergers"
-date:   2019-01-01 00:00:00 +00:00
+date:   2016-01-01 00:00:00 +00:00
 image: images/koai.png
 categories: research
 author: "Tom Kimpson"
