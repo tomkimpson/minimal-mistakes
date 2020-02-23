@@ -10,4 +10,4 @@ venue: "MNRAS"
 doi: https://doi.org/10.1093/mnras/stz138
 arxiv: https://arxiv.org/abs/1904.05537
 ---
-How does light propagate through a plasma on a background Kerr space-time? We show that the convolution of gravitational and plasma effects gives rise to a dispersion in both space and time. and discuss implications for the detection of gravitationally bent pulsar beams near the Galactic centre
+How does light propagate through a plasma on a background Kerr space-time? We show that the convolution of gravitational and plasma effects gives rise to a dispersion in both space and time,  and discuss implications for the detection of gravitationally bent pulsar beams near the Galactic centre
