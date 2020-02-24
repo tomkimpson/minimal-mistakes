@@ -6,5 +6,6 @@ image: images/pipe.png
 categories: code
 author: "Tom Kimpson"
 venue: "Github"
+code: https://github.com/tomkimpson/Iliad
 ---
-How does light propagate through a plasma on a background Kerr space-time? We show that the convolution of gravitational and plasma effects gives rise to a dispersion in both space and time,  and discuss implications for the detection of gravitationally bent pulsar beams near the Galactic centre
+Pipeline to model the time-frequency signal from a pulsar orbiting a massive black hole (BH), accounting for all relativistic and astrophysical effects.
