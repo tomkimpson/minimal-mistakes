@@ -3,7 +3,7 @@ layout: post
 title:  "Iliad"
 date:   2019-01-01 00:00:00 +00:00
 image: images/pipe.png
-categories: code2
+categories: code
 venue: "GitHub"
 author: "Tom Kimpson"
 code: https://github.com/tomkimpson/Iliad
