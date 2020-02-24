@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Compact VCSEL Projector"
-date:   2016-06-27 22:21:59 +00:00
-image: /images/vcsel.png
-categories: Intel
-patent: https://patents.google.com/patent/US10007994B2
-patent2: https://patents.google.com/patent/US20170374244A1
-patent3: https://patents.google.com/patent/US9992474B2
+title:  "Iliad"
+date:   2019-01-01 00:00:00 +00:00
+image: images/pipe.png
+categories: code2
+venue: "GitHub"
+author: "Tom Kimpson"
+code: https://github.com/tomkimpson/Iliad
 ---
-A low-cost dense, configurable projector system for RGB-D depth sensors.
+Pipeline to model the time-frequency signal from a pulsar orbiting a massive black hole (BH), accounting for all relativistic and astrophysical effects.
