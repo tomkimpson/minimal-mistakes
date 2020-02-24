@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SSpatial dispersion of light rays propagating through a plasma in Kerr space-time"
+title:  "SSpatial MISPERISON of light rays propagating through a plasma in Kerr space-time"
 date:   2019-01-01 00:00:00 +00:00
 image: images/kerrPLASMA.png
 categories: code2
