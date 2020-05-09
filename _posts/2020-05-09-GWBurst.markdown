@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Gravitational Burst Radiation from Pulsars in the Galactic centre and stellar clusters"
+date:   2020-05-09 00:00:00 +00:00
+image: images/MultiSpectra.png
+categories: research
+author: "Tom Kimpson"
+authors: "<strong>Tom Kimpson</strong>, Kinwah Wu, Silvia Zane"
+venue: "MNRAS"
+doi: https://doi.org/10.1093/mnras/staa1259
+arxiv: https://arxiv.org/abs/2005.02053
+---
+Can we do multimessenger astronomy of strong-field regimes? Can pulsar observations act as a prior for GW astronomy? 
+
+
+
+
+
+
+
+>
