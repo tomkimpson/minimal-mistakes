@@ -6,6 +6,6 @@ image: images/MPD.png
 categories: code
 author: "Tom Kimpson"
 venue: "Github"
-code: https://github.com/tomkimpson/SpinCurvatureDynamics
+code: https://github.com/tomkimpson/Orbital-Dynamics
 ---
 Numerical solution to the spin-orbital dynamics of an extended spinning object around a Kerr black hole.
